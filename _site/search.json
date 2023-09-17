@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "school.html",
+    "href": "school.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello, I’m Heeju Lim.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "R",
+    "section": "",
+    "text": "My R Project\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#contact-information",
+    "href": "index.html#contact-information",
+    "title": "Heeju Lim",
+    "section": "** Contact Information**",
+    "text": "** Contact Information**\n\nE-mail : heeju.lim@uconn.edu"
+  },
+  {
+    "objectID": "index.html#current-status",
+    "href": "index.html#current-status",
+    "title": "Heeju Lim",
+    "section": "Current Status",
+    "text": "Current Status\n\nData Scientist in the department of Convergence and Open Sharing System for New Energy Industry, Korea University ( Oct. 2022 ~ Present )\nPh.D Student - an academic leave of absence (Aug. 2019 ~ May. 2021) inDepartment of Statistics, University of Connecticut"
+  },
+  {
+    "objectID": "index.html#educational-history",
+    "href": "index.html#educational-history",
+    "title": "Heeju Lim",
+    "section": "Educational History",
+    "text": "Educational History\n\nSep. 2019 - Present, University of Connecticut, Ph.D Student in Statistics.\nMar. 2015 - Feb. 2017, Korea University, M.S. in Statistics. (Advisor : Yousung Park)  \n\n-Heeju Lim. A study on financial stability through the estimation of child education and childcare budget, workers’ compensation insurance, and employment insurance.  Korea University. 2017. Seoul http://www.riss.kr/link?id=T14435637 \n\nMar. 2010 - Feb. 2015, Sejong University, B.S. in Statistics. (Advisor : Seungyeon Lee)"
+  },
+  {
+    "objectID": "index.html#publication",
+    "href": "index.html#publication",
+    "title": "Heeju Lim",
+    "section": "Publication",
+    "text": "Publication\n\nJae Seung Kang, Taesung Park, Youngmin Han, Seungyeon Lee, Heeju Lim, Hyeongseok Kim, Se Hyung Kim, Wooil Kwon, Sun-Whe Kim and Jin-Young Jang. (2019). Clinical validation of the 2017 international consensus guidelines on intraductal papillary mucinous neoplasm of the pancreas. Annals of Surgical Treatment and Research, 97(2), 58-64. doi:10.4174/astr.2019.97.2.58\nLee S, Lim H. Review of statistical methods for survival analysis using genomic data. Genomics Inform. 2019;17(4):e41.doi:10.5808/GI.2019.17.4.e41"
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "Heeju Lim",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nAdvance programming skills of R, SAS, Python and SQL\nAdvance technical skills of SPSS statistics and SPSS modeler\nModerate programming skills in HTML, C, JAVA"
+  },
+  {
+    "objectID": "index.html#certificates",
+    "href": "index.html#certificates",
+    "title": "Heeju Lim",
+    "section": "Certificates",
+    "text": "Certificates\n\nSAS Certified Base/Advanced Programmer for SAS 9, JUL 2015\nOracle Database 10g Administrator Certified Professional, SEP 2014\nOracle Database 12c Administrator Certified Professional, JAN 2016"
+  },
+  {
+    "objectID": "index.html#awards-and-honors",
+    "href": "index.html#awards-and-honors",
+    "title": "Heeju Lim",
+    "section": "Awards and Honors",
+    "text": "Awards and Honors\n\nScholarships for Internationalization, Korea Univ. Spring 2016\nAcademic Research Scholarships, Korea Univ. Spring 2016, Fall 2015\nBK21PLUS Scholarships, Korea Univ. Spring 2016, Fall 2015\nMagna cum Laude, Sejong Univ. Spring 2015\nHonors Scholarships, Sejong Univ. 2014, 2013, 2012, 2011"
+  },
+  {
+    "objectID": "index.html#teaching-assistantgrader",
+    "href": "index.html#teaching-assistantgrader",
+    "title": "Heeju Lim",
+    "section": "Teaching Assistant(Grader)",
+    "text": "Teaching Assistant(Grader)\n\nIntroduction to Mathematical Statistics 2, UConn. Spring 2021\nIntroduction to Mathematical Statistics 1, UConn. Fall 2020\nBayesian Statistics, Sejong Univ. Fall 2018\nIntroduction to Database(mySQL), Korea Univ. Fall 2015\nIntroduction to C-Programming, Korea Univ. Spring 2015\nMathematical Statistics 2, Sejong Univ. Fall 2014"
+  },
+  {
+    "objectID": "index.html#work-and-research-experience",
+    "href": "index.html#work-and-research-experience",
+    "title": "Heeju Lim",
+    "section": "Work and Research Experience",
+    "text": "Work and Research Experience\n\nKorea University (Oct 2022 - March 2023)\n\nData Scientist in the department of Convergence and Open Sharing System for New Energy Industry\nDeveloped a course-recommender system and the student-activity prediction modeling based on machine learning and deep learninng algorithms and Natural language Processing\n\nNational Tax Service of the Republic of Korea (Apr 2022 - Sep 2022)\n\nStatistician in the department of National Tax data\n\nUniversity of Connecticut (Aug 2019 - May 2021)\n\nWebmaster in the department of Statistics and New England Statistical Society(NESS)\nOrganized the 4th Stat4Onc Annual Symposium,  NextGen : Data Science Day(2020) and  NextGen : Data Science Day(2019) \n\nSejong University (Sep 2018 - Jun 2019)\n\nFull-time Researcher in Biostatistics laboratory\n\nDATASOLUTION inc. - Formerly SPSS Korea (Mar 2017 - Sep 2017)\n\nData Analyst in the department of Consulting Business HQ"
+  }
+]
