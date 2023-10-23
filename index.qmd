@@ -8,17 +8,18 @@ title: "Heeju Lim"
 
 -   E-mail : [heeju.lim\@uconn.edu](mailto:heeju.lim@uconn.edu) 
 
--   
+ 
 
 ## **Current Status**
 
--   **Data Scientist in the department of Convergence and Open Sharing System for New Energy Industry, Korea University ( Oct. 2022 \~ Present )**
 
--   **Ph.D Student - an academic leave of absence (Aug. 2019 \~ May. 2021) in[Department of Statistics, University of Connecticut](https://stat.uconn.edu/)**
+-   **Ph.D Student in [Department of Statistics, University of Connecticut](https://stat.uconn.edu/)**
 
 ## **Educational History**
 
 -   Sep. 2019 - Present, University of Connecticut, Ph.D Student in Statistics.
+-   an academic leave of absence (May. 2021 \~ Aug. 2023)**
+
 
 -   Mar. 2015 - Feb. 2017, Korea University, M.S. in Statistics. (Advisor : Yousung Park)  
 
@@ -80,7 +81,7 @@ title: "Heeju Lim"
 
 Data Scientist in the department of Convergence and Open Sharing System for New Energy Industry
 
-Developed a course-recommender system and the student-activity prediction modeling based on machine learning and deep learninng algorithms and Natural language Processing
+Developed a course-recommender system and the student-activity prediction modeling based on machine learning and deep learninng algorithms and Natural Language Processing
 
 -   **National Tax Service of the Republic of Korea (Apr 2022 - Sep 2022)**
 
