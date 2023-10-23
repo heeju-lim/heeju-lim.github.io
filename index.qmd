@@ -4,7 +4,7 @@ title: "Heeju Lim"
 
 ![](images/visa2.jpg){fig-align="left" width="300"}
 
-## \*\* Contact Information\*\*
+## **Contact Information**
 
 -   E-mail : [heeju.lim\@uconn.edu](mailto:heeju.lim@uconn.edu) 
 
@@ -18,16 +18,17 @@ title: "Heeju Lim"
 ## **Educational History**
 
 -   Sep. 2019 - Present, University of Connecticut, Ph.D Student in Statistics.
--   an academic leave of absence (May. 2021 \~ Aug. 2023)**
+
+    (an academic leave of absence - May. 2021 \~ Aug. 2023)
 
 
 -   Mar. 2015 - Feb. 2017, Korea University, M.S. in Statistics. (Advisor : Yousung Park)  
 
--Heeju Lim. A study on financial stability through the estimation of child education and childcare budget, workers' compensation insurance, and employment insurance.  Korea University. 2017. Seoul [http://www.riss.kr/link?id=T14435637 ](http://www.riss.kr/link?id=T14435637)
+    - Heeju Lim. A study on financial stability through the estimation of child education and childcare budget, workers' compensation insurance, and employment insurance.  Korea University. 2017. Seoul [http://www.riss.kr/link?id=T14435637 ](http://www.riss.kr/link?id=T14435637)
 
 -   Mar. 2010 - Feb. 2015, Sejong University, B.S. in Statistics. (Advisor : Seungyeon Lee)
 
-## **Publication**
+## **[Publication](https://www.researchgate.net/profile/Heeju-Lim)**
 
 -   Jae Seung Kang, Taesung Park, Youngmin Han, Seungyeon Lee, Heeju Lim, Hyeongseok Kim, Se Hyung Kim, Wooil Kwon, Sun-Whe Kim and Jin-Young Jang. (2019). Clinical validation of the 2017 international consensus guidelines on intraductal papillary mucinous neoplasm of the pancreas. Annals of Surgical Treatment and Research, 97(2), 58-64. [doi:10.4174/astr.2019.97.2.58](http://doi.org/10.4174/astr.2019.97.2.58)
 
@@ -61,7 +62,7 @@ title: "Heeju Lim"
 
 -   Honors Scholarships, Sejong Univ. 2014, 2013, 2012, 2011
 
-## **Teaching Assistant(Grader)**
+## **Teaching Assistant**
 
 -   Introduction to Mathematical Statistics 2, UConn. Spring 2021
 
@@ -79,24 +80,26 @@ title: "Heeju Lim"
 
 -   **Korea University (Oct 2022 - March 2023)**
 
-Data Scientist in the department of Convergence and Open Sharing System for New Energy Industry
+    Data Scientist in the department of Convergence and Open Sharing System for New Energy Industry
 
-Developed a course-recommender system and the student-activity prediction modeling based on machine learning and deep learninng algorithms and Natural Language Processing
+    Developed a course-recommender system and the student-activity prediction modeling based on machine learning and deep learninng algorithms and Natural Language Processing
 
 -   **National Tax Service of the Republic of Korea (Apr 2022 - Sep 2022)**
 
-Statistician in the department of National Tax data
+    Statistician in the department of National Tax data
 
 -   **University of Connecticut (Aug 2019 - May 2021)**
 
-Webmaster in the department of Statistics and [New England Statistical Society(NESS)](https://nestat.org/about/it-team/)
+    Webmaster in the department of Statistics and [New England Statistical Society(NESS)](https://nestat.org/about/it-team/)
 
-Organized [the 4th Stat4Onc Annual Symposium](https://events.stat4onc.org/stat4onc2021/),  NextGen : [Data Science Day(2020)](https://nestat.org/nextgen/dsd2020/) and  [NextGen : Data Science Day(2019)](https://nestat.org/nextgen/dsd2019/) 
+    Organized [the 4th Stat4Onc Annual Symposium](https://events.stat4onc.org/stat4onc2021/) 
+    
+    NextGen : [Data Science Day(2020)](https://nestat.org/nextgen/dsd2020/) and  [NextGen : Data Science Day(2019)](https://nestat.org/nextgen/dsd2019/) 
 
 -   **Sejong University (Sep 2018 - Jun 2019)**
 
-Full-time Researcher in Biostatistics laboratory
+    Full-time Researcher in Biostatistics laboratory
 
 -   **DATASOLUTION inc. - Formerly SPSS Korea (Mar 2017 - Sep 2017)**
 
-Data Analyst in the department of Consulting Business HQ
+    ata Analyst in the department of Consulting Business HQ

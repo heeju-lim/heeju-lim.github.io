@@ -94,8 +94,8 @@
     "objectID": "index.html#contact-information",
     "href": "index.html#contact-information",
     "title": "Heeju Lim",
-    "section": "** Contact Information**",
-    "text": "** Contact Information**\n\nE-mail : heeju.lim@uconn.edu"
+    "section": "Contact Information",
+    "text": "Contact Information\n\nE-mail : heeju.lim@uconn.edu"
   },
   {
     "objectID": "index.html#current-status",
@@ -109,7 +109,7 @@
     "href": "index.html#educational-history",
     "title": "Heeju Lim",
     "section": "Educational History",
-    "text": "Educational History\n\nSep. 2019 - Present, University of Connecticut, Ph.D Student in Statistics.\nan academic leave of absence (May. 2021 ~ Aug. 2023)**\nMar. 2015 - Feb. 2017, Korea University, M.S. in Statistics. (Advisor : Yousung Park)  \n\n-Heeju Lim. A study on financial stability through the estimation of child education and childcare budget, workers’ compensation insurance, and employment insurance.  Korea University. 2017. Seoul http://www.riss.kr/link?id=T14435637 \n\nMar. 2010 - Feb. 2015, Sejong University, B.S. in Statistics. (Advisor : Seungyeon Lee)"
+    "text": "Educational History\n\nSep. 2019 - Present, University of Connecticut, Ph.D Student in Statistics.\n(an academic leave of absence - May. 2021 ~ Aug. 2023)\nMar. 2015 - Feb. 2017, Korea University, M.S. in Statistics. (Advisor : Yousung Park)  \n\nHeeju Lim. A study on financial stability through the estimation of child education and childcare budget, workers’ compensation insurance, and employment insurance.  Korea University. 2017. Seoul http://www.riss.kr/link?id=T14435637 \n\nMar. 2010 - Feb. 2015, Sejong University, B.S. in Statistics. (Advisor : Seungyeon Lee)"
   },
   {
     "objectID": "index.html#publication",
@@ -151,6 +151,13 @@
     "href": "index.html#work-and-research-experience",
     "title": "Heeju Lim",
     "section": "Work and Research Experience",
-    "text": "Work and Research Experience\n\nKorea University (Oct 2022 - March 2023)\n\nData Scientist in the department of Convergence and Open Sharing System for New Energy Industry\nDeveloped a course-recommender system and the student-activity prediction modeling based on machine learning and deep learninng algorithms and Natural Language Processing\n\nNational Tax Service of the Republic of Korea (Apr 2022 - Sep 2022)\n\nStatistician in the department of National Tax data\n\nUniversity of Connecticut (Aug 2019 - May 2021)\n\nWebmaster in the department of Statistics and New England Statistical Society(NESS)\nOrganized the 4th Stat4Onc Annual Symposium,  NextGen : Data Science Day(2020) and  NextGen : Data Science Day(2019) \n\nSejong University (Sep 2018 - Jun 2019)\n\nFull-time Researcher in Biostatistics laboratory\n\nDATASOLUTION inc. - Formerly SPSS Korea (Mar 2017 - Sep 2017)\n\nData Analyst in the department of Consulting Business HQ"
+    "text": "Work and Research Experience\n\nKorea University (Oct 2022 - March 2023)\nData Scientist in the department of Convergence and Open Sharing System for New Energy Industry\nDeveloped a course-recommender system and the student-activity prediction modeling based on machine learning and deep learninng algorithms and Natural Language Processing\nNational Tax Service of the Republic of Korea (Apr 2022 - Sep 2022)\nStatistician in the department of National Tax data\nUniversity of Connecticut (Aug 2019 - May 2021)\nWebmaster in the department of Statistics and New England Statistical Society(NESS)\nOrganized the 4th Stat4Onc Annual Symposium\nNextGen : Data Science Day(2020) and  NextGen : Data Science Day(2019) \nSejong University (Sep 2018 - Jun 2019)\nFull-time Researcher in Biostatistics laboratory\nDATASOLUTION inc. - Formerly SPSS Korea (Mar 2017 - Sep 2017)\nata Analyst in the department of Consulting Business HQ"
+  },
+  {
+    "objectID": "index.html#teaching-assistant",
+    "href": "index.html#teaching-assistant",
+    "title": "Heeju Lim",
+    "section": "Teaching Assistant",
+    "text": "Teaching Assistant\n\nIntroduction to Mathematical Statistics 2, UConn. Spring 2021\nIntroduction to Mathematical Statistics 1, UConn. Fall 2020\nBayesian Statistics, Sejong Univ. Fall 2018\nIntroduction to Database(mySQL), Korea Univ. Fall 2015\nIntroduction to C-Programming, Korea Univ. Spring 2015\nMathematical Statistics 2, Sejong Univ. Fall 2014"
   }
 ]
