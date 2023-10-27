@@ -12,7 +12,7 @@ toc: false
 
  {{< fa graduation-cap size=1.5x >}}  Mar. 2015 - Feb. 2017, Korea University, M.S. in Statistics. (Advisor : Yousung Park)
 
-- Heeju Lim. A study on financial stability through the estimation of child education and childcare budget, workers' compensation insurance, and employment insurance. Korea University. 2017. Seoul [{{< fa file-pdf size=2x >}}](http://www.riss.kr/link?id=T14435637)
+- Heeju Lim. A study on financial stability through the estimation of child education and childcare budget, workers' compensation insurance, and employment insurance. Korea University. 2017. Seoul [{{< fa download size=1.5x >}}](http://www.riss.kr/link?id=T14435637)
 
  {{< fa graduation-cap size=1.5x >}} Mar. 2010 - Feb. 2015, Sejong University, B.S. in Statistics. (Advisor : Seungyeon Lee)
 

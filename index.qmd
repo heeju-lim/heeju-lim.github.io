@@ -7,6 +7,8 @@ about:
   image-shape: round
   image-width: 20em
   links:
+    - text: Email
+      href: mailto:heeju.lim@uconn.edu
     - text: LinkedIn
       href: https://www.linkedin.com/in/heeju-lim-283382292/
     - text: GitHub
@@ -15,24 +17,21 @@ about:
       href: https://www.researchgate.net/profile/Heeju-Lim
 ---
 
-
 ## **Current Status**
 
--   **Ph.D Student in [Department of Statistics, University of Connecticut](https://stat.uconn.edu/)**
+[{{< fa user size=1.5x >}}]{style="color:green"}  **Ph.D Student in Statistics, UConn**
 
-    Advisor : [Victor Hugo Lachos](https://hlachos.stat.uconn.edu/)
 
- {{< fa graduation-cap size=1.5x >}} M.S. in Statistics, Korea University, 2017
- 
- {{< fa graduation-cap size=1.5x >}} B.S. in Statistics, Sejong University, 2015
+[{{< fa user size=1.5x >}}]{style="color:blue"}  Advisor : [Victor Hugo Lachos](https://hlachos.stat.uconn.edu/)
+
+[{{< fa graduation-cap size=1.5x >}}]{style="color:crimson"} M.S. in Statistics, Korea Univ. 2017
+
+[{{< fa graduation-cap size=1.5x >}}]{style="color:red"} B.S. in Statistics, Sejong Univ. 2015
 
 ## **Interests**
 
-- Mixture Models
-- Financial Statistics
-- Time Series Analysis
+[{{< fa check size=1.5x >}}]{style="color:green"}   Mixture Models
+[{{< fa check size=1.5x >}}]{style="color:green"}   Financial Statistics
+[{{< fa check size=1.5x >}}]{style="color:green"}   Time Series Analysis
 
-
-
-
-## **Contact : [[{{< fa envelope size=2x >}}]{style="color:green"} ](mailto:heeju.lim@uconn.edu)**
+## **Contact :** [[{{< fa envelope size=1.5x >}}](mailto:heeju.lim@uconn.edu)]{style="color:green"}     [[{{< fa brands linkedin size=1.5x >}}](https://www.linkedin.com/in/heeju-lim-283382292/)]{style="color:green"}     [[{{< fa brands github size=1.5x >}}](https://github.com/heeju-lim)]{style="color:green"}      [[{{< fa brands researchgate size=1.5x >}}](https://www.researchgate.net/profile/Heeju-Lim)]{style="color:green"}

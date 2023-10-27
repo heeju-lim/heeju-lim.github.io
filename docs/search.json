@@ -11,7 +11,7 @@
     "href": "index.html#current-status",
     "title": "Heeju Lim",
     "section": "",
-    "text": "Ph.D Student in Department of Statistics, University of Connecticut\nAdvisor : Victor Hugo Lachos\n\n M.S. in Statistics, Korea University, 2017\n B.S. in Statistics, Sejong University, 2015"
+    "text": "Ph.D Student in Statistics, UConn\n Advisor : Victor Hugo Lachos\n M.S. in Statistics, Korea Univ. 2017\n B.S. in Statistics, Sejong Univ. 2015"
   },
   {
     "objectID": "index.html#educational-history",
@@ -67,7 +67,7 @@
     "href": "index.html",
     "title": "Heeju Lim",
     "section": "",
-    "text": "Ph.D Student in Department of Statistics, University of Connecticut\nAdvisor : Victor Hugo Lachos\n\n M.S. in Statistics, Korea University, 2017\n B.S. in Statistics, Sejong University, 2015"
+    "text": "Ph.D Student in Statistics, UConn\n Advisor : Victor Hugo Lachos\n M.S. in Statistics, Korea Univ. 2017\n B.S. in Statistics, Sejong Univ. 2015"
   },
   {
     "objectID": "research.html",
@@ -193,7 +193,7 @@
     "href": "index.html#interests",
     "title": "Heeju Lim",
     "section": "Interests",
-    "text": "Interests\n\nMixture Models\nFinancial Statistics\nTime Series Analysis"
+    "text": "Interests\n Mixture Models  Financial Statistics  Time Series Analysis"
   },
   {
     "objectID": "index.html#contact-information-fa-envelope-size2x",
@@ -208,5 +208,47 @@
     "title": "Heeju Lim",
     "section": "Contact : ",
     "text": "Contact :"
+  },
+  {
+    "objectID": "index.html#contact-fa-envelope-size1.5x",
+    "href": "index.html#contact-fa-envelope-size1.5x",
+    "title": "Heeju Lim",
+    "section": "Contact : ",
+    "text": "Contact :"
+  },
+  {
+    "objectID": "index.html#contact-fa-envelope-size1.5x-fa-brands-linkedin-size1.5x",
+    "href": "index.html#contact-fa-envelope-size1.5x-fa-brands-linkedin-size1.5x",
+    "title": "Heeju Lim",
+    "section": "Contact :  ",
+    "text": "Contact :"
+  },
+  {
+    "objectID": "index.html#contact-fa-envelope-size1.5x-fa-brands-linkedin-size1.5x-fa-brands-github-size1.5x",
+    "href": "index.html#contact-fa-envelope-size1.5x-fa-brands-linkedin-size1.5x-fa-brands-github-size1.5x",
+    "title": "Heeju Lim",
+    "section": "Contact :   ",
+    "text": "Contact :"
+  },
+  {
+    "objectID": "index.html#contact-fa-envelope-size1.5x-fa-brands-linkedin-size1.5x-fa-brands-github-size1.5x-fa-brands-reasearchgate-size1.5x",
+    "href": "index.html#contact-fa-envelope-size1.5x-fa-brands-linkedin-size1.5x-fa-brands-github-size1.5x-fa-brands-reasearchgate-size1.5x",
+    "title": "Heeju Lim",
+    "section": "Contact :    ",
+    "text": "Contact :"
+  },
+  {
+    "objectID": "index.html#contact-fa-envelope-size1.5x-fa-brands-linkedin-size1.5x-fa-brands-github-size1.5x-fa-brands-researchgate-size1.5x",
+    "href": "index.html#contact-fa-envelope-size1.5x-fa-brands-linkedin-size1.5x-fa-brands-github-size1.5x-fa-brands-researchgate-size1.5x",
+    "title": "Heeju Lim",
+    "section": "Contact :    ",
+    "text": "Contact :"
+  },
+  {
+    "objectID": "index.html#ph.d-student-in-statistics",
+    "href": "index.html#ph.d-student-in-statistics",
+    "title": "Heeju Lim",
+    "section": "",
+    "text": "University of Connecticut\n Advisor : Victor Hugo Lachos\n M.S. in Statistics, Korea Univ. 2017\n B.S. in Statistics, Sejong Univ. 2015"
   }
 ]
