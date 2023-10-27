@@ -1,0 +1,20 @@
+---
+title: "Research"
+toc: false
+listing: 
+  type: table
+  contents: posts
+  fields: [Authors, title, ]
+---
+
+
+## **Publication**
+
+-   Jae Seung Kang, Taesung Park, Youngmin Han, Seungyeon Lee, Heeju Lim, Hyeongseok Kim, Se Hyung Kim, Wooil Kwon, Sun-Whe Kim and Jin-Young Jang. (2019). Clinical validation of the 2017 international consensus guidelines on intraductal papillary mucinous neoplasm of the pancreas. Annals of Surgical Treatment and Research, 97(2), 58-64.     [{{< fa file-pdf size=2x >}}](http://doi.org/10.4174/astr.2019.97.2.58)
+
+
+
+-   Lee S, Lim H. Review of statistical methods for survival analysis using genomic data. Genomics Inform. 2019;17(4):e41.    [{{< fa file-pdf size=2x >}}](https://doi.org/10.5808/GI.2019.17.4.e41)
+
+
+

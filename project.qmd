@@ -1,0 +1,39 @@
+---
+title: "Experience"
+toc: false
+---
+
+## **Work and Research Experience**
+
+-   **Korea University (Oct 2022 - March 2023)**
+
+    Data Scientist in the department of Convergence and Open Sharing System for New Energy Industry
+
+    Developed a course-recommender system and the student-activity prediction modeling based on machine learning and deep learninng algorithms and Natural Language Processing
+
+
+-   **National Tax Service of the Republic of Korea (Apr 2022 - Sep 2022)**
+
+    Statistician in the department of National Tax data
+
+-   **University of Connecticut (Aug 2019 - May 2021)**
+
+    Webmaster in the department of Statistics and [New England Statistical Society(NESS)](https://nestat.org/about/it-team/)
+
+    Organized [the 4th Stat4Onc Annual Symposium](https://events.stat4onc.org/stat4onc2021/) 
+    
+    NextGen : [Data Science Day(2020)](https://nestat.org/nextgen/dsd2020/) and  [NextGen : Data Science Day(2019)](https://nestat.org/nextgen/dsd2019/) 
+
+-   **Sejong University (Sep 2018 - Jun 2019)**
+
+    Full-time Researcher in Biostatistics laboratory
+
+-   **DATASOLUTION inc. - Formerly SPSS Korea (Mar 2017 - Sep 2017)**
+
+    ata Analyst in the department of Consulting Business HQ
+
+
+
+```{r}
+1 + 1
+```

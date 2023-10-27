@@ -2,19 +2,23 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "My Webpage"
+  title: "Heeju Lim"
   navbar:
     left:
       - href: index.qmd
         text: Home
-  #    - about.qmd
-  #   - school.qmd
+      - about.qmd
+      - research.qmd
+      - project.qmd
+
 
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
     toc: true
+    fontsize: 1.2em
+
 
 editor: visual
 

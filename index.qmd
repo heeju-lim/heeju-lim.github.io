@@ -1,107 +1,38 @@
 ---
 title: "Heeju Lim"
+image: images/visa2.jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/heeju-lim-283382292/
+    - text: GitHub
+      href: https://github.com/heeju-lim
+    - text: ResearchGate
+      href: https://www.researchgate.net/profile/Heeju-Lim
 ---
 
-![](images/visa2.jpg){fig-align="left" width="300"}
-
-## **Contact Information**
-
--   E-mail : [heeju.lim\@uconn.edu](mailto:heeju.lim@uconn.edu) 
-
- 
 
 ## **Current Status**
-
 
 -   **Ph.D Student in [Department of Statistics, University of Connecticut](https://stat.uconn.edu/)**
 
     Advisor : [Victor Hugo Lachos](https://hlachos.stat.uconn.edu/)
 
-## **Educational History**
+ {{< fa graduation-cap size=1.5x >}} M.S. in Statistics, Korea University, 2017
+ 
+ {{< fa graduation-cap size=1.5x >}} B.S. in Statistics, Sejong University, 2015
 
--   Sep. 2019 - Present, University of Connecticut, Ph.D Student in Statistics.
+## **Interests**
 
-    (an academic leave of absence - May. 2021 \~ Aug. 2023)
+- Mixture Models
+- Financial Statistics
+- Time Series Analysis
 
 
--   Mar. 2015 - Feb. 2017, Korea University, M.S. in Statistics. (Advisor : Yousung Park)  
 
-    - Heeju Lim. A study on financial stability through the estimation of child education and childcare budget, workers' compensation insurance, and employment insurance.  Korea University. 2017. Seoul [http://www.riss.kr/link?id=T14435637 ](http://www.riss.kr/link?id=T14435637)
 
--   Mar. 2010 - Feb. 2015, Sejong University, B.S. in Statistics. (Advisor : Seungyeon Lee)
-
-## **[Publication](https://www.researchgate.net/profile/Heeju-Lim)**
-
--   Jae Seung Kang, Taesung Park, Youngmin Han, Seungyeon Lee, Heeju Lim, Hyeongseok Kim, Se Hyung Kim, Wooil Kwon, Sun-Whe Kim and Jin-Young Jang. (2019). Clinical validation of the 2017 international consensus guidelines on intraductal papillary mucinous neoplasm of the pancreas. Annals of Surgical Treatment and Research, 97(2), 58-64. [doi:10.4174/astr.2019.97.2.58](http://doi.org/10.4174/astr.2019.97.2.58)
-
--   Lee S, Lim H. Review of statistical methods for survival analysis using genomic data. Genomics Inform. 2019;17(4):e41.[doi:10.5808/GI.2019.17.4.e41](https://doi.org/10.5808/GI.2019.17.4.e41)
-
-## **Technical Skills**
-
--   Advance programming skills of R, SAS, Python and SQL
-
--   Advance technical skills of SPSS statistics and SPSS modeler
-
--   Moderate programming skills in HTML, C, JAVA
-
-## **Certificates**
-
--   SAS Certified Base/Advanced Programmer for SAS 9, JUL 2015
-
--   Oracle Database 10g Administrator Certified Professional, SEP 2014
-
--   Oracle Database 12c Administrator Certified Professional, JAN 2016
-
-## **Awards and Honors**
-
--   Scholarships for Internationalization, Korea Univ. Spring 2016
-
--   Academic Research Scholarships, Korea Univ. Spring 2016, Fall 2015
-
--   BK21PLUS Scholarships, Korea Univ. Spring 2016, Fall 2015
-
--   Magna cum Laude, Sejong Univ. Spring 2015
-
--   Honors Scholarships, Sejong Univ. 2014, 2013, 2012, 2011
-
-## **Teaching Assistant**
-
--   Introduction to Mathematical Statistics 2, UConn. Spring 2021
-
--   Introduction to Mathematical Statistics 1, UConn. Fall 2020
-
--   Bayesian Statistics, Sejong Univ. Fall 2018
-
--   Introduction to Database(mySQL), Korea Univ. Fall 2015
-
--   Introduction to C-Programming, Korea Univ. Spring 2015
-
--   Mathematical Statistics 2, Sejong Univ. Fall 2014
-
-## **Work and Research Experience**
-
--   **Korea University (Oct 2022 - March 2023)**
-
-    Data Scientist in the department of Convergence and Open Sharing System for New Energy Industry
-
-    Developed a course-recommender system and the student-activity prediction modeling based on machine learning and deep learninng algorithms and Natural Language Processing
-
--   **National Tax Service of the Republic of Korea (Apr 2022 - Sep 2022)**
-
-    Statistician in the department of National Tax data
-
--   **University of Connecticut (Aug 2019 - May 2021)**
-
-    Webmaster in the department of Statistics and [New England Statistical Society(NESS)](https://nestat.org/about/it-team/)
-
-    Organized [the 4th Stat4Onc Annual Symposium](https://events.stat4onc.org/stat4onc2021/) 
-    
-    NextGen : [Data Science Day(2020)](https://nestat.org/nextgen/dsd2020/) and  [NextGen : Data Science Day(2019)](https://nestat.org/nextgen/dsd2019/) 
-
--   **Sejong University (Sep 2018 - Jun 2019)**
-
-    Full-time Researcher in Biostatistics laboratory
-
--   **DATASOLUTION inc. - Formerly SPSS Korea (Mar 2017 - Sep 2017)**
-
-    ata Analyst in the department of Consulting Business HQ
+## **Contact : [[{{< fa envelope size=2x >}}]{style="color:green"} ](mailto:heeju.lim@uconn.edu)**

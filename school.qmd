@@ -1,9 +1,0 @@
----
-title: "About"
----
-
-Hello, I'm Heeju Lim.
-
-```{r}
-1 + 1
-```

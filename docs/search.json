@@ -4,14 +4,14 @@
     "href": "index.html#contact-information",
     "title": "Heeju Lim",
     "section": "Contact Information",
-    "text": "Contact Information\n\nE-mail : heeju.lim@uconn.edu"
+    "text": "Contact Information\n heeju.lim@uconn.edu"
   },
   {
     "objectID": "index.html#current-status",
     "href": "index.html#current-status",
     "title": "Heeju Lim",
-    "section": "Current Status",
-    "text": "Current Status\n\nPh.D Student in Department of Statistics, University of Connecticut\nAdvisor : Victor Hugo Lachos"
+    "section": "",
+    "text": "Ph.D Student in Department of Statistics, University of Connecticut\nAdvisor : Victor Hugo Lachos\n\n M.S. in Statistics, Korea University, 2017\n B.S. in Statistics, Sejong University, 2015"
   },
   {
     "objectID": "index.html#educational-history",
@@ -61,5 +61,152 @@
     "title": "Heeju Lim",
     "section": "Work and Research Experience",
     "text": "Work and Research Experience\n\nKorea University (Oct 2022 - March 2023)\nData Scientist in the department of Convergence and Open Sharing System for New Energy Industry\nDeveloped a course-recommender system and the student-activity prediction modeling based on machine learning and deep learninng algorithms and Natural Language Processing\nNational Tax Service of the Republic of Korea (Apr 2022 - Sep 2022)\nStatistician in the department of National Tax data\nUniversity of Connecticut (Aug 2019 - May 2021)\nWebmaster in the department of Statistics and New England Statistical Society(NESS)\nOrganized the 4th Stat4Onc Annual Symposium\nNextGen : Data Science Day(2020) and  NextGen : Data Science Day(2019) \nSejong University (Sep 2018 - Jun 2019)\nFull-time Researcher in Biostatistics laboratory\nDATASOLUTION inc. - Formerly SPSS Korea (Mar 2017 - Sep 2017)\nata Analyst in the department of Consulting Business HQ"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Heeju Lim",
+    "section": "",
+    "text": "Ph.D Student in Department of Statistics, University of Connecticut\nAdvisor : Victor Hugo Lachos\n\n M.S. in Statistics, Korea University, 2017\n B.S. in Statistics, Sejong University, 2015"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Jae Seung Kang, Taesung Park, Youngmin Han, Seungyeon Lee, Heeju Lim, Hyeongseok Kim, Se Hyung Kim, Wooil Kwon, Sun-Whe Kim and Jin-Young Jang. (2019). Clinical validation of the 2017 international consensus guidelines on intraductal papillary mucinous neoplasm of the pancreas. Annals of Surgical Treatment and Research, 97(2), 58-64. \nLee S, Lim H. Review of statistical methods for survival analysis using genomic data. Genomics Inform. 2019;17(4):e41."
+  },
+  {
+    "objectID": "research.html#publication",
+    "href": "research.html#publication",
+    "title": "Research",
+    "section": "",
+    "text": "Jae Seung Kang, Taesung Park, Youngmin Han, Seungyeon Lee, Heeju Lim, Hyeongseok Kim, Se Hyung Kim, Wooil Kwon, Sun-Whe Kim and Jin-Young Jang. (2019). Clinical validation of the 2017 international consensus guidelines on intraductal papillary mucinous neoplasm of the pancreas. Annals of Surgical Treatment and Research, 97(2), 58-64. \nLee S, Lim H. Review of statistical methods for survival analysis using genomic data. Genomics Inform. 2019;17(4):e41."
+  },
+  {
+    "objectID": "research.html#technical-skills",
+    "href": "research.html#technical-skills",
+    "title": "Research",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nAdvance programming skills of R, SAS, Python and SQL\nAdvance technical skills of SPSS statistics and SPSS modeler\nModerate programming skills in HTML, C, JAVA"
+  },
+  {
+    "objectID": "research.html#certificates",
+    "href": "research.html#certificates",
+    "title": "Research",
+    "section": "Certificates",
+    "text": "Certificates\n\nSAS Certified Base/Advanced Programmer for SAS 9, JUL 2015\nOracle Database 10g Administrator Certified Professional, SEP 2014\nOracle Database 12c Administrator Certified Professional, JAN 2016"
+  },
+  {
+    "objectID": "research.html#awards-and-honors",
+    "href": "research.html#awards-and-honors",
+    "title": "Research",
+    "section": "Awards and Honors",
+    "text": "Awards and Honors\n\nScholarships for Internationalization, Korea Univ. Spring 2016\nAcademic Research Scholarships, Korea Univ. Spring 2016, Fall 2015\nBK21PLUS Scholarships, Korea Univ. Spring 2016, Fall 2015\nMagna cum Laude, Sejong Univ. Spring 2015\nHonors Scholarships, Sejong Univ. 2014, 2013, 2012, 2011"
+  },
+  {
+    "objectID": "research.html#teaching-assistant",
+    "href": "research.html#teaching-assistant",
+    "title": "Research",
+    "section": "Teaching Assistant",
+    "text": "Teaching Assistant\n\nIntroduction to Mathematical Statistics 2, UConn. Spring 2021\nIntroduction to Mathematical Statistics 1, UConn. Fall 2020\nBayesian Statistics, Sejong Univ. Fall 2018\nIntroduction to Database(mySQL), Korea Univ. Fall 2015\nIntroduction to C-Programming, Korea Univ. Spring 2015\nMathematical Statistics 2, Sejong Univ. Fall 2014"
+  },
+  {
+    "objectID": "research.html#work-and-research-experience",
+    "href": "research.html#work-and-research-experience",
+    "title": "Research",
+    "section": "Work and Research Experience",
+    "text": "Work and Research Experience\n\nKorea University (Oct 2022 - March 2023)\nData Scientist in the department of Convergence and Open Sharing System for New Energy Industry\nDeveloped a course-recommender system and the student-activity prediction modeling based on machine learning and deep learninng algorithms and Natural Language Processing\nNational Tax Service of the Republic of Korea (Apr 2022 - Sep 2022)\nStatistician in the department of National Tax data\nUniversity of Connecticut (Aug 2019 - May 2021)\nWebmaster in the department of Statistics and New England Statistical Society(NESS)\nOrganized the 4th Stat4Onc Annual Symposium\nNextGen : Data Science Day(2020) and  NextGen : Data Science Day(2019) \nSejong University (Sep 2018 - Jun 2019)\nFull-time Researcher in Biostatistics laboratory\nDATASOLUTION inc. - Formerly SPSS Korea (Mar 2017 - Sep 2017)\nata Analyst in the department of Consulting Business HQ"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Sep. 2019 - Present, University of Connecticut, Ph.D Student in Statistics.\n\nan academic leave of absence - May. 2021 ~ Aug. 2023\n\n Mar. 2015 - Feb. 2017, Korea University, M.S. in Statistics. (Advisor : Yousung Park)\n\nHeeju Lim. A study on financial stability through the estimation of child education and childcare budget, workers’ compensation insurance, and employment insurance. Korea University. 2017. Seoul \n\n Mar. 2010 - Feb. 2015, Sejong University, B.S. in Statistics. (Advisor : Seungyeon Lee)"
+  },
+  {
+    "objectID": "about.html#educational-history",
+    "href": "about.html#educational-history",
+    "title": "About",
+    "section": "",
+    "text": "Sep. 2019 - Present, University of Connecticut, Ph.D Student in Statistics.\n(an academic leave of absence - May. 2021 \\~ Aug. 2023)\n Mar. 2015 - Feb. 2017, Korea University, M.S. in Statistics. (Advisor : Yousung Park)\n\nHeeju Lim. A study on financial stability through the estimation of child education and childcare budget, workers’ compensation insurance, and employment insurance. Korea University. 2017. Seoul \n\n Mar. 2010 - Feb. 2015, Sejong University, B.S. in Statistics. (Advisor : Seungyeon Lee)"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Korea University (Oct 2022 - March 2023)\nData Scientist in the department of Convergence and Open Sharing System for New Energy Industry\nDeveloped a course-recommender system and the student-activity prediction modeling based on machine learning and deep learninng algorithms and Natural Language Processing\nNational Tax Service of the Republic of Korea (Apr 2022 - Sep 2022)\nStatistician in the department of National Tax data\nUniversity of Connecticut (Aug 2019 - May 2021)\nWebmaster in the department of Statistics and New England Statistical Society(NESS)\nOrganized the 4th Stat4Onc Annual Symposium\nNextGen : Data Science Day(2020) and  NextGen : Data Science Day(2019) \nSejong University (Sep 2018 - Jun 2019)\nFull-time Researcher in Biostatistics laboratory\nDATASOLUTION inc. - Formerly SPSS Korea (Mar 2017 - Sep 2017)\nata Analyst in the department of Consulting Business HQ\n\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "project.html#work-and-research-experience",
+    "href": "project.html#work-and-research-experience",
+    "title": "Experience",
+    "section": "",
+    "text": "Korea University (Oct 2022 - March 2023)\nData Scientist in the department of Convergence and Open Sharing System for New Energy Industry\nDeveloped a course-recommender system and the student-activity prediction modeling based on machine learning and deep learninng algorithms and Natural Language Processing\nNational Tax Service of the Republic of Korea (Apr 2022 - Sep 2022)\nStatistician in the department of National Tax data\nUniversity of Connecticut (Aug 2019 - May 2021)\nWebmaster in the department of Statistics and New England Statistical Society(NESS)\nOrganized the 4th Stat4Onc Annual Symposium\nNextGen : Data Science Day(2020) and  NextGen : Data Science Day(2019) \nSejong University (Sep 2018 - Jun 2019)\nFull-time Researcher in Biostatistics laboratory\nDATASOLUTION inc. - Formerly SPSS Korea (Mar 2017 - Sep 2017)\nata Analyst in the department of Consulting Business HQ\n\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html#technical-skills",
+    "href": "about.html#technical-skills",
+    "title": "About",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nAdvance programming skills of R, SAS, Python and SQL\nAdvance technical skills of SPSS statistics and SPSS modeler\nModerate programming skills in HTML, C, JAVA"
+  },
+  {
+    "objectID": "about.html#certificates",
+    "href": "about.html#certificates",
+    "title": "About",
+    "section": "Certificates",
+    "text": "Certificates\n\nSAS Certified Base/Advanced Programmer for SAS 9, JUL 2015\nOracle Database 10g Administrator Certified Professional, SEP 2014\nOracle Database 12c Administrator Certified Professional, JAN 2016"
+  },
+  {
+    "objectID": "about.html#awards-and-honors",
+    "href": "about.html#awards-and-honors",
+    "title": "About",
+    "section": "Awards and Honors",
+    "text": "Awards and Honors\n\nScholarships for Internationalization, Korea Univ. Spring 2016\nAcademic Research Scholarships, Korea Univ. Spring 2016, Fall 2015\nBK21PLUS Scholarships, Korea Univ. Spring 2016, Fall 2015\nMagna cum Laude, Sejong Univ. Spring 2015\nHonors Scholarships, Sejong Univ. 2014, 2013, 2012, 2011"
+  },
+  {
+    "objectID": "about.html#teaching-assistant",
+    "href": "about.html#teaching-assistant",
+    "title": "About",
+    "section": "Teaching Assistant",
+    "text": "Teaching Assistant\n\nIntroduction to Mathematical Statistics 2, UConn. Spring 2021\nIntroduction to Mathematical Statistics 1, UConn. Fall 2020\nBayesian Statistics, Sejong Univ. Fall 2018\nIntroduction to Database(mySQL), Korea Univ. Fall 2015\nIntroduction to C-Programming, Korea Univ. Spring 2015\nMathematical Statistics 2, Sejong Univ. Fall 2014"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "",
+    "text": "Sep. 2019 - Present, University of Connecticut, Ph.D Student in Statistics.\n\nan academic leave of absence - May. 2021 ~ Aug. 2023\n\n Mar. 2015 - Feb. 2017, Korea University, M.S. in Statistics. (Advisor : Yousung Park)\n\nHeeju Lim. A study on financial stability through the estimation of child education and childcare budget, workers’ compensation insurance, and employment insurance. Korea University. 2017. Seoul \n\n Mar. 2010 - Feb. 2015, Sejong University, B.S. in Statistics. (Advisor : Seungyeon Lee)"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Heeju Lim",
+    "section": "Education",
+    "text": "Education\n M.S. in Statistics, 2017\n\n  Korea University\n\n B.S. in Statistics, 2015\n\n  Sejong University"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Heeju Lim",
+    "section": "Interests",
+    "text": "Interests\n\nMixture Models\nFinancial Statistics\nTime Series Analysis"
+  },
+  {
+    "objectID": "index.html#contact-information-fa-envelope-size2x",
+    "href": "index.html#contact-information-fa-envelope-size2x",
+    "title": "Heeju Lim",
+    "section": "Contact Information ",
+    "text": "Contact Information"
+  },
+  {
+    "objectID": "index.html#contact-fa-envelope-size2x",
+    "href": "index.html#contact-fa-envelope-size2x",
+    "title": "Heeju Lim",
+    "section": "Contact : ",
+    "text": "Contact :"
   }
 ]
