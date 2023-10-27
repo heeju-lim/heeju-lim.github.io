@@ -17,7 +17,7 @@ format:
     theme: minty
     css: styles.css
     toc: true
-    fontsize: 1.2em
+    fontsize: 1.1em
 
 
 editor: visual

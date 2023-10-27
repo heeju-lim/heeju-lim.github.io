@@ -5,17 +5,27 @@ toc: false
 
 ## **Education**
 
- {{< fa building-columns size=1.5x >}} Sep. 2019 - Present, University of Connecticut, Ph.D Student in Statistics.
+::: {.callout-tip icon="false"}
+## [{{< fa building-columns size=1.5x >}}]{style="color:blue"} Sep. 2019 - Present, University of Connecticut, Ph.D Student in Statistics. 
 
--  an academic leave of absence - May. 2021 \~ Aug. 2023
+[{{< fa user size=1.5x >}}]{style="color:blue"} Advisor : [Victor Hugo Lachos](https://hlachos.stat.uconn.edu/)
 
+[{{< fa check size=1x >}}]{style="color:blue"} an academic leave of absence - May. 2021 \~ Aug. 2023
+:::
 
- {{< fa graduation-cap size=1.5x >}}  Mar. 2015 - Feb. 2017, Korea University, M.S. in Statistics. (Advisor : Yousung Park)
+::: {.callout-tip icon="false"}
+## [{{< fa graduation-cap size=1.5x >}}]{style="color:crimson"} Mar. 2015 - Feb. 2017, Korea University, M.S. in Statistics.
 
-- Heeju Lim. A study on financial stability through the estimation of child education and childcare budget, workers' compensation insurance, and employment insurance. Korea University. 2017. Seoul [{{< fa download size=1.5x >}}](http://www.riss.kr/link?id=T14435637)
+[{{< fa user size=1.5x >}}]{style="color:crimson"} Advisor : [Yousung Park](https://www.researchgate.net/profile/Yousung-Park)
 
- {{< fa graduation-cap size=1.5x >}} Mar. 2010 - Feb. 2015, Sejong University, B.S. in Statistics. (Advisor : Seungyeon Lee)
+[{{< fa check size=1x >}}]{style="color:crimson"} Thesis : A study on financial stability through the estimation of child education and childcare budget, workers' compensation insurance, and employment insurance [{{< fa download size=1.5x >}}](http://www.riss.kr/link?id=T14435637)
+:::
 
+::: {.callout-tip icon="false"}
+## [{{< fa graduation-cap size=1.5x >}}]{style="color:red"} Mar. 2010 - Feb. 2015, Sejong University, B.S. in Statistics.
+
+[{{< fa user size=1.5x >}}]{style="color:red"} Advisor : [Seungyeon Lee](http://dasan.sejong.ac.kr/~leesy/)
+:::
 
 ## **Technical Skills**
 
@@ -58,5 +68,3 @@ toc: false
 -   Introduction to C-Programming, Korea Univ. Spring 2015
 
 -   Mathematical Statistics 2, Sejong Univ. Fall 2014
-
-

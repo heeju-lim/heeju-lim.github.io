@@ -5,35 +5,53 @@ toc: false
 
 ## **Work and Research Experience**
 
--   **Korea University (Oct 2022 - March 2023)**
+::: {.callout-caution icon="false"}
+## [{{< fa school size=1.5x >}}]{style="color:crimson"} **Data Scientist, Korea University**
 
-    Data Scientist in the department of Convergence and Open Sharing System for New Energy Industry
+[{{< fa calendar size=1.5x >}}]{style="color:crimson"} Oct 2022 - March 2023\
+[{{< fa check size=1x >}}]{style="color:crimson"} Department of Convergence and Open Sharing System for New Energy Industry
 
-    Developed a course-recommender system and the student-activity prediction modeling based on machine learning and deep learninng algorithms and Natural Language Processing
+Developed a course-recommender system and the student-activity prediction modeling based on machine learning and deep learninng algorithms and Natural Language Processing
+:::
 
+![](images/images-01.jpg){fig-align="center" width="330"} ![](images/images2-01.jpg){fig-align="center" width="330" height="248"}
 
--   **National Tax Service of the Republic of Korea (Apr 2022 - Sep 2022)**
+::: {.callout-warning icon="false"}
+## [{{< fa school size=1.5x >}}]{style="color:peru"} **Statistician, National Tax Service of the Republic of Korea**
 
-    Statistician in the department of National Tax data
+[{{< fa calendar size=1.5x >}}]{style="color:peru"} Apr 2022 - Sep 2022\
+[{{< fa check size=1.5x >}}]{style="color:peru"} Department of National Tax data
+:::
 
--   **University of Connecticut (Aug 2019 - May 2021)**
+![](images/image4.jpg){width="220"} ![](images/image6.jpg){width="220"} ![](images/image7.jpg){width="220"}
 
-    Webmaster in the department of Statistics and [New England Statistical Society(NESS)](https://nestat.org/about/it-team/)
+::: {.callout-note icon="false"}
+## [{{< fa school size=1.5x >}}]{style="color:blue"} **TA & Webmaster, University of Connecticut**
 
-    Organized [the 4th Stat4Onc Annual Symposium](https://events.stat4onc.org/stat4onc2021/) 
-    
-    NextGen : [Data Science Day(2020)](https://nestat.org/nextgen/dsd2020/) and  [NextGen : Data Science Day(2019)](https://nestat.org/nextgen/dsd2019/) 
+[{{< fa calendar size=1.5x >}}]{style="color:blue"} Aug 2019 - May 2021\
+[{{< fa check size=1.5x >}}]{style="color:blue"} Department of Statistics and [New England Statistical Society(NESS)](https://nestat.org/about/it-team/)
 
--   **Sejong University (Sep 2018 - Jun 2019)**
+Organized [the 4th Stat4Onc Annual Symposium](https://events.stat4onc.org/stat4onc2021/)
 
-    Full-time Researcher in Biostatistics laboratory
+NextGen : [Data Science Day(2020)](https://nestat.org/nextgen/dsd2020/) and  [NextGen : Data Science Day(2019)](https://nestat.org/nextgen/dsd2019/) 
+:::
 
--   **DATASOLUTION inc. - Formerly SPSS Korea (Mar 2017 - Sep 2017)**
+::: {.callout-caution icon="false"}
+## [{{< fa school size=1.5x >}}]{style="color:red"} **Researcher, Sejong University**
 
-    ata Analyst in the department of Consulting Business HQ
+[{{< fa calendar size=1.5x >}}]{style="color:red"} Sep 2018 - Jun 2019\
+[{{< fa check size=1.5x >}}]{style="color:red"} Biostatistics laboratory
+:::
 
+![](images/images3.jpg){fig-align="center" width="300"}
 
+::: {.callout-tip icon="false"}
+## [{{< fa school size=1.5x >}}]{style="color:green"} **Data Analyst, DATASOLUTION inc. - Formerly SPSS Korea**
+
+[{{< fa calendar size=1.5x >}}]{style="color:green"} Mar 2017 - Sep 2017\
+[{{< fa check size=1.5x >}}]{style="color:green"} Department of Consulting Business HQ
+:::
 
 ```{r}
-1 + 1
+
 ```
