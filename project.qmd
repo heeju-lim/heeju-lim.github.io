@@ -23,7 +23,7 @@ Developed a course-recommender system and the student-activity prediction modeli
 [{{< fa check size=1.5x >}}]{style="color:peru"} Department of National Tax data
 :::
 
-![](images/image4.jpg){width="220"} ![](images/image6.jpg){width="220"} ![](images/image7.jpg){width="220"}
+<!--![](images/image7.jpg){width="220"} ![](images/image6.jpg){width="220"} ![](images/image4.jpg){width="220"}-->
 
 ::: {.callout-note icon="false"}
 ## [{{< fa school size=1.5x >}}]{style="color:blue"} **TA & Webmaster, University of Connecticut**
@@ -37,7 +37,7 @@ NextGen : [Data Science Day(2020)](https://nestat.org/nextgen/dsd2020/) and  [N
 :::
 
 ::: {.callout-caution icon="false"}
-## [{{< fa school size=1.5x >}}]{style="color:red"} **Researcher, Sejong University**
+## [{{< fa school size=1.5x >}}]{style="color:red"} **TA & Researcher, Sejong University**
 
 [{{< fa calendar size=1.5x >}}]{style="color:red"} Sep 2018 - Jun 2019\
 [{{< fa check size=1.5x >}}]{style="color:red"} Biostatistics laboratory
@@ -51,6 +51,15 @@ NextGen : [Data Science Day(2020)](https://nestat.org/nextgen/dsd2020/) and  [N
 [{{< fa calendar size=1.5x >}}]{style="color:green"} Mar 2017 - Sep 2017\
 [{{< fa check size=1.5x >}}]{style="color:green"} Department of Consulting Business HQ
 :::
+
+::: {.callout-caution icon="false"}
+## [{{< fa school size=1.5x >}}]{style="color:crimson"} **TA & RA Graduate Student, Korea University**
+
+[{{< fa calendar size=1.5x >}}]{style="color:crimson"} July 2015 - Feb 2017\
+[{{< fa check size=1.5x >}}]{style="color:crimson"} Time Series Analysis Laboratory
+:::
+
+![](images/image12-02.jpg){width="380"} ![](images/image11-02.jpg){width="277"}
 
 ```{r}
 
