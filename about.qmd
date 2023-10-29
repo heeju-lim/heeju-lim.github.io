@@ -6,65 +6,63 @@ toc: false
 ## **Education**
 
 ::: {.callout-tip icon="false"}
-## [{{< fa building-columns size=1.5x >}}]{style="color:blue"} Sep. 2019 - Present, University of Connecticut, Ph.D Student in Statistics. 
+## [{{< fa building-columns size=1.5x >}}]{style="color:blue"} Ph.D Student in Statistics, University of Connecticut.
+
+[{{< fa calendar size=1.5x >}}]{style="color:blue"} Sep. 2019 - Present\
+[{{< fa tag size=1x >}}]{style="color:blue"} an academic leave of absence (Aug. 2021 \~ Aug. 2023)
 
 [{{< fa user size=1.5x >}}]{style="color:blue"} Advisor : [Victor Hugo Lachos](https://hlachos.stat.uconn.edu/)
-
-[{{< fa check size=1x >}}]{style="color:blue"} an academic leave of absence - May. 2021 \~ Aug. 2023
 :::
 
 ::: {.callout-tip icon="false"}
-## [{{< fa graduation-cap size=1.5x >}}]{style="color:crimson"} Mar. 2015 - Feb. 2017, Korea University, M.S. in Statistics.
+## [{{< fa graduation-cap size=1.5x >}}]{style="color:crimson"} M.S. in Statistics, Korea University.
 
+[{{< fa calendar size=1.5x >}}]{style="color:crimson"} Mar. 2015 - Feb. 2017\
 [{{< fa user size=1.5x >}}]{style="color:crimson"} Advisor : [Yousung Park](https://www.researchgate.net/profile/Yousung-Park)
 
-[{{< fa check size=1x >}}]{style="color:crimson"} Thesis : A study on financial stability through the estimation of child education and childcare budget, workers' compensation insurance, and employment insurance [{{< fa download size=1.5x >}}](http://www.riss.kr/link?id=T14435637)
+[{{< fa check size=1x >}}]{style="color:crimson"} Thesis : A study on financial stability through the estimation of child education and childcare budget, workers' compensation insurance, and employment insurance [[{{< fa download size=1.5x >}}]{style="color:crimson"}](http://www.riss.kr/link?id=T14435637)
 :::
 
 ::: {.callout-tip icon="false"}
-## [{{< fa graduation-cap size=1.5x >}}]{style="color:red"} Mar. 2010 - Feb. 2015, Sejong University, B.S. in Statistics.
+## [{{< fa graduation-cap size=1.5x >}}]{style="color:red"} B.S. in Statistics, Sejong University.
 
+[{{< fa calendar size=1.5x >}}]{style="color:red"} Mar. 2010 - Feb. 2015\
 [{{< fa user size=1.5x >}}]{style="color:red"} Advisor : [Seungyeon Lee](http://dasan.sejong.ac.kr/~leesy/)
+:::
+
+## **Awards and Honors**
+
+::: {.callout-warning appearance="simple" icon="false"}
+Scholarships for Internationalization, Korea Univ. Spring 2016\
+Academic Research Scholarships, Korea Univ. Spring 2016, Fall 2015\
+BK21PLUS Scholarships, Korea Univ. Spring 2016, Fall 2015\
+**Magna cum Laude, Sejong Univ. Spring 2015**\
+Honors Scholarships, Sejong Univ. 2014, 2013, 2012, 2011\
 :::
 
 ## **Technical Skills**
 
--   Advance programming skills of R, SAS, Python and SQL
-
--   Advance technical skills of SPSS statistics and SPSS modeler
-
--   Moderate programming skills in HTML, C, JAVA
+::: {.callout-caution appearance="simple" icon="false"}
+**Advance programming skills of R, SAS, Python and SQL**\
+Advance technical skills of SPSS statistics and SPSS modeler\
+Moderate programming skills in HTML, C, JAVA\
+:::
 
 ## **Certificates**
 
--   SAS Certified Base/Advanced Programmer for SAS 9, JUL 2015
-
--   Oracle Database 10g Administrator Certified Professional, SEP 2014
-
--   Oracle Database 12c Administrator Certified Professional, JAN 2016
-
-## **Awards and Honors**
-
--   Scholarships for Internationalization, Korea Univ. Spring 2016
-
--   Academic Research Scholarships, Korea Univ. Spring 2016, Fall 2015
-
--   BK21PLUS Scholarships, Korea Univ. Spring 2016, Fall 2015
-
--   Magna cum Laude, Sejong Univ. Spring 2015
-
--   Honors Scholarships, Sejong Univ. 2014, 2013, 2012, 2011
+::: {.callout-note appearance="simple" icon="false"}
+SAS Certified Base/Advanced Programmer for SAS 9, JUL 2015\
+Oracle Database 10g Administrator Certified Professional, SEP 2014\
+Oracle Database 12c Administrator Certified Professional, JAN 2016\
+:::
 
 ## **Teaching Assistant**
 
--   Introduction to Mathematical Statistics 2, UConn. Spring 2021
-
--   Introduction to Mathematical Statistics 1, UConn. Fall 2020
-
--   Bayesian Statistics, Sejong Univ. Fall 2018
-
--   Introduction to Database(mySQL), Korea Univ. Fall 2015
-
--   Introduction to C-Programming, Korea Univ. Spring 2015
-
--   Mathematical Statistics 2, Sejong Univ. Fall 2014
+::: {.callout-important appearance="simple" icon="false"}
+Introduction to Mathematical Statistics 2, UConn. Spring 2021\
+Introduction to Mathematical Statistics 1, UConn. Fall 2020\
+Bayesian Statistics, Sejong Univ. Fall 2018\
+Introduction to Database(mySQL), Korea Univ. Fall 2015\
+Introduction to C-Programming, Korea Univ. Spring 2015\
+Mathematical Statistics 2, Sejong Univ. Fall 2014\
+:::

@@ -1,6 +1,9 @@
 [
   {
     "listing": "/research.html",
-    "items": []
+    "items": [
+      "/paper/paper2.html",
+      "/paper/paper1.html"
+    ]
   }
 ]
