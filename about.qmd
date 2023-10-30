@@ -20,7 +20,7 @@ toc: false
 [{{< fa calendar size=1.5x >}}]{style="color:crimson"} Mar. 2015 - Feb. 2017\
 [{{< fa user size=1.5x >}}]{style="color:crimson"} Advisor : [Yousung Park](https://www.researchgate.net/profile/Yousung-Park)
 
-[{{< fa check size=1x >}}]{style="color:crimson"} Thesis : A study on financial stability through the estimation of child education and childcare budget, workers' compensation insurance, and employment insurance [[{{< fa download size=1.5x >}}]{style="color:crimson"}](http://www.riss.kr/link?id=T14435637)
+[{{< fa check size=1x >}}]{style="color:crimson"} Thesis : A study on financial stability through the estimation of child education and childcare budget, workers' compensation insurance, and employment insurance [[{{< fa download size=1.5x >}}](http://www.riss.kr/link?id=T14435637)]{style="color:crimson"}
 :::
 
 ::: {.callout-tip icon="false"}
@@ -36,9 +36,11 @@ toc: false
 Scholarships for Internationalization, Korea Univ. Spring 2016\
 Academic Research Scholarships, Korea Univ. Spring 2016, Fall 2015\
 BK21PLUS Scholarships, Korea Univ. Spring 2016, Fall 2015\
-**Magna cum Laude, Sejong Univ. Spring 2015**\
+**Magna Cum Laude, Sejong Univ. Spring 2015**\
 Honors Scholarships, Sejong Univ. 2014, 2013, 2012, 2011\
 :::
+
+## ![](images/4.parti_eaui4-01.jpg){width="344"}![](images/certificate.png){width="320"}
 
 ## **Technical Skills**
 
@@ -56,13 +58,4 @@ Oracle Database 10g Administrator Certified Professional, SEP 2014\
 Oracle Database 12c Administrator Certified Professional, JAN 2016\
 :::
 
-## **Teaching Assistant**
-
-::: {.callout-important appearance="simple" icon="false"}
-Introduction to Mathematical Statistics 2, UConn. Spring 2021\
-Introduction to Mathematical Statistics 1, UConn. Fall 2020\
-Bayesian Statistics, Sejong Univ. Fall 2018\
-Introduction to Database(mySQL), Korea Univ. Fall 2015\
-Introduction to C-Programming, Korea Univ. Spring 2015\
-Mathematical Statistics 2, Sejong Univ. Fall 2014\
-:::
+![](images/20150720_202408.png){width="344"} ![](images/20140905_131302.png){width="344"}

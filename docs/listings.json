@@ -5,5 +5,13 @@
       "/paper/paper2.html",
       "/paper/paper1.html"
     ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/post1.html",
+      "/posts/post2.html",
+      "/posts/post3.html"
+    ]
   }
 ]

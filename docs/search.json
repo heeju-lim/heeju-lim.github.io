@@ -137,14 +137,14 @@
     "href": "project.html",
     "title": "Experience",
     "section": "",
-    "text": "Data Scientist, Korea University\n\n\n\n Oct 2022 - March 2023\n Department of Convergence and Open Sharing System for New Energy Industry\nDeveloped a course-recommender system and the student-activity prediction modeling based on machine learning and deep learninng algorithms and Natural Language Processing\n\n\n\n\n\n\n\n\n\n Statistician, National Tax Service of the Republic of Korea\n\n\n\n Apr 2022 - Sep 2022\n Department of National Tax data\n\n\n\n\n\n\n\n\n\n TA & Webmaster, University of Connecticut\n\n\n\n Aug 2019 - May 2021\n Department of Statistics and New England Statistical Society(NESS)\nOrganized the 4th Stat4Onc Annual Symposium\nNextGen : Data Science Day(2020) and  NextGen : Data Science Day(2019) \n\n\n\n\n\n\n\n\n TA & Researcher, Sejong University\n\n\n\n Sep 2018 - Jun 2019\n Biostatistics laboratory\n\n\n \n\n\n\n\n\n\n Data Analyst, DATASOLUTION inc. - Formerly SPSS Korea\n\n\n\n Mar 2017 - Sep 2017\n Department of Consulting Business HQ\n\n\n\n\n\n\n\n\n TA & RA Graduate Student, Korea University\n\n\n\n July 2015 - Feb 2017\n Time Series Analysis Laboratory"
+    "text": "Introduction to Mathematical Statistics 2, UConn. Spring 2021\nIntroduction to Mathematical Statistics 1, UConn. Fall 2020\nBayesian Statistics, Sejong Univ. Fall 2018\nIntroduction to Database(mySQL), Korea Univ. Fall 2015\nIntroduction to C-Programming, Korea Univ. Spring 2015\nMathematical Statistics 2, Sejong Univ. Fall 2014"
   },
   {
     "objectID": "project.html#work-and-research-experience",
     "href": "project.html#work-and-research-experience",
     "title": "Experience",
-    "section": "",
-    "text": "Data Scientist, Korea University\n\n\n\n Oct 2022 - March 2023\n Department of Convergence and Open Sharing System for New Energy Industry\nDeveloped a course-recommender system and the student-activity prediction modeling based on machine learning and deep learninng algorithms and Natural Language Processing\n\n\n\n\n\n\n\n\n\n Statistician, National Tax Service of the Republic of Korea\n\n\n\n Apr 2022 - Sep 2022\n Department of National Tax data\n\n\n\n\n\n\n\n\n\n TA & Webmaster, University of Connecticut\n\n\n\n Aug 2019 - May 2021\n Department of Statistics and New England Statistical Society(NESS)\nOrganized the 4th Stat4Onc Annual Symposium\nNextGen : Data Science Day(2020) and  NextGen : Data Science Day(2019) \n\n\n\n\n\n\n\n\n TA & Researcher, Sejong University\n\n\n\n Sep 2018 - Jun 2019\n Biostatistics laboratory\n\n\n \n\n\n\n\n\n\n Data Analyst, DATASOLUTION inc. - Formerly SPSS Korea\n\n\n\n Mar 2017 - Sep 2017\n Department of Consulting Business HQ\n\n\n\n\n\n\n\n\n TA & RA Graduate Student, Korea University\n\n\n\n July 2015 - Feb 2017\n Time Series Analysis Laboratory"
+    "section": "Work and Research Experience",
+    "text": "Work and Research Experience\n\n\n\n\n\n\n Data Scientist, Korea University\n\n\n\n Department of Convergence and Open Sharing System for New Energy Industry\n Oct 2022 - Mar 2023\n Advisor : Gyu Tae Kim\nDeveloped a course-recommender system and the student-activity prediction modeling based on machine learning and deep learninng algorithms and Natural Language Processing\n\n\n \n\n\n\n\n\n\n Statistician, National Tax Service of the Republic of Korea\n\n\n\n Department of National Tax data\n Apr 2022 - Sep 2022\n\n\n\n\n\n\n\n\n\n\n Webmaster & TA, University of Connecticut\n\n\n\n Department of Statistics and New England Statistical Society(NESS)\n Aug 2019 - May 2021\n\nOrganized the 4th Stat4Onc Annual Symposium\nNextGen : Data Science Day(2020) and  NextGen : Data Science Day(2019) \n\n\n\n\n\n\n\n\n Researcher & TA, Sejong University\n\n\n\n Biostatistics laboratory\n Sep 2018 - Jun 2019\n Advisor : Seungyeon Lee\n\n\n \n\n\n\n\n\n\n Data Analyst, DATASOLUTION inc. - Former SPSS Korea\n\n\n\n Department of Consulting Business HQ\n Mar 2017 - Sep 2017\n\n\n\n\n\n\n\n\n\n RA & TA Graduate Student, Korea University\n\n\n\n Time Series Analysis Laboratory\n Mar 2015 - Feb 2017\n Advisor : Yousung Park"
   },
   {
     "objectID": "about.html#technical-skills",
@@ -165,7 +165,7 @@
     "href": "about.html#awards-and-honors",
     "title": "About",
     "section": "Awards and Honors",
-    "text": "Awards and Honors\n\n\n\n\n\n\nScholarships for Internationalization, Korea Univ. Spring 2016\nAcademic Research Scholarships, Korea Univ. Spring 2016, Fall 2015\nBK21PLUS Scholarships, Korea Univ. Spring 2016, Fall 2015\nMagna cum Laude, Sejong Univ. Spring 2015\nHonors Scholarships, Sejong Univ. 2014, 2013, 2012, 2011"
+    "text": "Awards and Honors\n\n\n\n\n\n\nScholarships for Internationalization, Korea Univ. Spring 2016\nAcademic Research Scholarships, Korea Univ. Spring 2016, Fall 2015\nBK21PLUS Scholarships, Korea Univ. Spring 2016, Fall 2015\nMagna Cum Laude, Sejong Univ. Spring 2015\nHonors Scholarships, Sejong Univ. 2014, 2013, 2012, 2011"
   },
   {
     "objectID": "about.html#teaching-assistant",
@@ -348,5 +348,33 @@
     "title": "Experience",
     "section": " TA & RA Graduate Student, Korea University",
     "text": "TA & RA Graduate Student, Korea University\n July 2015 - Feb 2017\n Time Series Analysis Laboratory"
+  },
+  {
+    "objectID": "project.html#teaching-assistant",
+    "href": "project.html#teaching-assistant",
+    "title": "Experience",
+    "section": "",
+    "text": "Introduction to Mathematical Statistics 2, UConn. Spring 2021\nIntroduction to Mathematical Statistics 1, UConn. Fall 2020\nBayesian Statistics, Sejong Univ. Fall 2018\nIntroduction to Database(mySQL), Korea Univ. Fall 2015\nIntroduction to C-Programming, Korea Univ. Spring 2015\nMathematical Statistics 2, Sejong Univ. Fall 2014"
+  },
+  {
+    "objectID": "posts/post1.html",
+    "href": "posts/post1.html",
+    "title": "Post1",
+    "section": "",
+    "text": "coming soon!"
+  },
+  {
+    "objectID": "posts/post2.html",
+    "href": "posts/post2.html",
+    "title": "Post2",
+    "section": "",
+    "text": "coming soon!"
+  },
+  {
+    "objectID": "posts/post3.html",
+    "href": "posts/post3.html",
+    "title": "Post3",
+    "section": "",
+    "text": "coming soon!"
   }
 ]
