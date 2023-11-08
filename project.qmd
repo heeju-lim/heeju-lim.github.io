@@ -38,7 +38,7 @@ Developed a course-recommender system and the student-activity prediction modeli
 
 :::
 
-<!--![](images/image7.jpg){width="220"} ![](images/image6.jpg){width="220"} ![](images/image4.jpg){width="220"}-->
+![](images/image7.jpg){width="220"} ![](images/image6.jpg){width="220"} ![](images/image4.jpg){width="220"}
 
 ::: {.callout-note icon="false"}
 ## [{{< fa school size=1.5x >}}]{style="color:blue"} **Webmaster & TA, University of Connecticut**
