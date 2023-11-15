@@ -38,8 +38,8 @@ Developed a course-recommender system and the student-activity prediction modeli
 
 :::
 
-![](images/image7.jpg){width="220"} ![](images/image6.jpg){width="220"} ![](images/image4.jpg){width="220"}
-
+<!--![](images/image7.jpg){width="220"} ![](images/image6.jpg){width="220"} ![](images/image4.jpg){width="220"}
+-->
 ::: {.callout-note icon="false"}
 ## [{{< fa school size=1.5x >}}]{style="color:blue"} **Webmaster & TA, University of Connecticut**
 [{{< fa tag size=1.5x >}}]{style="color:blue"} Department of Statistics and [New England Statistical Society(NESS)](https://nestat.org/about/it-team/)\
@@ -48,7 +48,7 @@ Developed a course-recommender system and the student-activity prediction modeli
 
 Organized [the 4th Stat4Onc Annual Symposium](https://events.stat4onc.org/stat4onc2021/)
 
-NextGen : [Data Science Day(2020)](https://nestat.org/nextgen/dsd2020/) and  [NextGen : Data Science Day(2019)](https://nestat.org/nextgen/dsd2019/) 
+[NextGen : Data Science Day(2020)](https://nestat.org/nextgen/dsd2020/) and  [NextGen : Data Science Day(2019)](https://nestat.org/nextgen/dsd2019/) 
 :::
 
 ::: {.callout-caution icon="false"}
