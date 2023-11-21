@@ -8,15 +8,16 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - research.qmd
       - project.qmd
+      - research.qmd
       - posts.qmd
 
 format:
   html:
-    theme: minty
+    theme: zephyr
     css: styles.css
     toc: true
+    page-layout: full
     fontsize: 1.1em
 
 

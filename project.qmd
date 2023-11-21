@@ -1,6 +1,7 @@
 ---
 title: "Experience"
 toc: false
+page-layout: article
 ---
 
 
