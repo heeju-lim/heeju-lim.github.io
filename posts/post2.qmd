@@ -1,6 +1,7 @@
 ---
 title: "Data Exploration - Censored Water Quality Data"
 toc: false
+page-layout: article
 ---
 
 
