@@ -13,6 +13,8 @@ page-layout: article
 [{{< fa tag size=1x >}}]{style="color:blue"} an academic leave of absence (Aug. 2021 \~ Aug. 2023)
 
 [{{< fa user size=1.5x >}}]{style="color:blue"} Advisor : [Victor Hugo Lachos](https://hlachos.stat.uconn.edu/)
+
+[{{< fa check size=1x >}}]{style="color:blue"} Thesis : Heckman Selection Contaminated Normal Model [[{{< fa download size=1.5x >}}](https://www.researchgate.net/publication/384155123_Heckman_Selection_Contaminated_Normal_Model)]{style="color:blue"}
 :::
 
 ::: {.callout-tip icon="false"}
@@ -31,9 +33,18 @@ page-layout: article
 [{{< fa user size=1.5x >}}]{style="color:red"} Advisor : [Seungyeon Lee](http://dasan.sejong.ac.kr/~leesy/)
 :::
 
-## **Awards and Honors**
+## **Awards**
 
 ::: {.callout-warning appearance="simple" icon="false"}
+Student Poster Award Winners, The 7th Stat4ONC Annual Symposium. May 10, 2024\
+![](images/Stat4OncPosterWinner.jpg){width="449"}
+:::
+
+## **Honors**
+
+::: {.callout-warning appearance="simple" icon="false"}
+Conference Participation Award, The Graduate School\| UConn. July 2024\
+CLAS Summer Fellowship, CLAS Summer Fellowship. May 2024\
 Scholarships for Internationalization, Korea Univ. Spring 2016\
 Academic Research Scholarships, Korea Univ. Spring 2016, Fall 2015\
 BK21PLUS Scholarships, Korea Univ. Spring 2016, Fall 2015\
@@ -86,12 +97,6 @@ Oracle Database 12c Administrator Certified Professional, JAN 2016\
 ```{=html}
 <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 ```
-
-</div>
-
-<div>
-
-[![](images/Oracle_Professional_Badge_2-03.jpg){fig-align="left" width="120"}](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0848096FADCE51B5909D87256F2D7160927999D6903AA17603B021F151D605F3)
 
 </div>
 :::
