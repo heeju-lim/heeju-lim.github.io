@@ -14,8 +14,11 @@ page-layout: article
 
 [{{< fa user size=1.5x >}}]{style="color:blue"} Advisor : [Victor Hugo Lachos](https://hlachos.stat.uconn.edu/)
 
-[{{< fa check size=1x >}}]{style="color:blue"} Thesis : Heckman Selection Contaminated Normal Model [[{{< fa download size=1.5x >}}](https://www.researchgate.net/publication/384155123_Heckman_Selection_Contaminated_Normal_Model)]{style="color:blue"}
- 2 Thesis
+[{{< fa check size=1x >}}]{style="color:blue"} Paper 1 : Heckman Selection Contaminated Normal Model, Journal of Computational and Graphical Statistics (under review). [[{{< fa download size=1.5x >}}](https://www.researchgate.net/publication/384155123_Heckman_Selection_Contaminated_Normal_Model)]{style="color:blue"}
+
+[{{< fa check size=1x >}}]{style="color:blue"} Paper 2: Bayesian Analysis of Flexible Heckman Selection Models Using Hamiltonian Monte Carlo. Computational Statistics (under review).
+
+[{{< fa check size=1x >}}]{style="color:blue"} Paper 3: Multivariate Heckman Selection Models (in progress)
 :::
 
 ::: {.callout-tip icon="false"}
