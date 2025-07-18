@@ -15,6 +15,7 @@ page-layout: article
 [{{< fa user size=1.5x >}}]{style="color:blue"} Advisor : [Victor Hugo Lachos](https://hlachos.stat.uconn.edu/)
 
 [{{< fa check size=1x >}}]{style="color:blue"} Thesis : Heckman Selection Contaminated Normal Model [[{{< fa download size=1.5x >}}](https://www.researchgate.net/publication/384155123_Heckman_Selection_Contaminated_Normal_Model)]{style="color:blue"}
+ 2 Thesis
 :::
 
 ::: {.callout-tip icon="false"}
