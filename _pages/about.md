@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Affiliations: Department of Statistics, University of Connecticut, Storrs, CT, USA
+subtitle: Affiliations. Department of Statistics, University of Connecticut, Storrs, CT, USA
 
 profile:
   align: right
