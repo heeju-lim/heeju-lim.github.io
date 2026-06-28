@@ -227,4 +227,4 @@ Fall 2024 · Spring 2025 · Fall 2025
 
 ------------------------------------------------------------------------
 
-# <a href="/images/cv.pdf" class="cv-button">Curriculum Vitae</a> {#cv}
+# <a href="/images/CV_HeejuLim_202606.pdf" class="cv-button">Curriculum Vitae</a> {#cv}
