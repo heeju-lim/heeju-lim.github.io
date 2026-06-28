@@ -42,7 +42,34 @@ Ph.D. in Statistics
 :::
 
 ::: about-card
-I recently earned my Ph.D. in Statistics from the University of Connecticut under the supervision of Professor Victor Hugo Lachos. My research interests include Bayesian statistics, missing data analysis, sample selection models, multivariate analysis, and statistical computing.
+
+I received my Ph.D. in Statistics from the University of Connecticut in 2026 under the supervision of Professor Victor Hugo Lachos. I earned my M.S. in Statistics from Korea University in 2017 under the supervision of Professor Yousung Park, and my B.S. in Statistics from Sejong University in 2015. I worked as an undergraduate research assistant and later as a full-time research assistant with Professor Seungyeoun Lee at Sejong University.
+
+I also gained practical experience as a data analyst and data scientist at DataSolution(데이타솔루션), the National Tax Service of Korea(국세청), and Korea University(고려대학교 혁신융합대학사업), where I applied statistical and data science methods to real-world problems.
+
+My research interests include sample selection models, missing data mechanisms, mixture modeling under heavy-tailed distributions, and multivariate statistical modeling. I have developed R packages including *Heckmanstan* and *mvHeckman* for statistical modeling. 
+
+I also completed a Big Data Specialist training program and hold an Oracle Certified Professional (OCP) certification, with experience in database management and large-scale data handling. In addition, I served as a webmaster at the University of Connecticut for three years, where I contributed to web development and conference organization activities.
+
+:::
+### Research Themes
+
+::: {.grid}
+
+::: {.g-col-6}
+
+#### Sample Selection & Missing Data
+#### Bayesian Analysis
+
+:::
+
+::: {.g-col-6}
+#### Mixture Modeling
+#### Multivarite modeling
+
+:::
+
+
 :::
 ::::::
 
@@ -70,17 +97,7 @@ I recently earned my Ph.D. in Statistics from the University of Connecticut unde
 
 ------------------------------------------------------------------------
 
-# Publications {#publications}
-
-::: pub-card
-## Multiple Heckman Selection Model
-
-**Heeju Lim**, Carlos A. R. Diniz, Ofer Harel, Victor H. Lachos
-
-*Preprint* · May 2026
-
-<a href="https://arxiv.org/abs/2605.01713" class="btn-pub">Preprint</a> <a href="https://github.com/heeju-lim/mvHeckman" class="btn-pub">R</a>
-:::
+# Featured Publications {#publications}
 
 ::: pub-card
 ## Bayesian analysis of heavy-tailed Heckman selection models using Hamiltonian Monte Carlo
@@ -102,6 +119,43 @@ I recently earned my Ph.D. in Statistics from the University of Connecticut unde
 <a href="https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2576165" class="btn-pub">Article</a> <a href="https://arxiv.org/abs/2409.12348" class="btn-pub">Preprint</a> <a href="https://github.com/marcosop/HeckmanEM" class="btn-pub">R</a>
 :::
 
+------------------------------------------------------------------------
+
+
+## Publications 
+
+### 2026
+
+
+**Multiple Heckman Selection Model (preprint)**  
+**Heeju Lim**, Carlos A. R. Diniz, Ofer Harel, Victor H. Lachos
+*Preprint*· 2026  
+[Preprint](https://arxiv.org/abs/2605.01713)
+
+
+---
+
+### 2019
+
+**Review of Statistical Methods for Survival Analysis Using Genomic Data**  
+Seungyeoun Lee, **Heeju Lim**
+*Genomics & Informatics*· 2019  
+[Article](https://genominfo.org/journal/view.php?doi=10.5808/GI.2019.17.4.e41)
+
+---
+
+<!--
+::: pub-card
+## Multiple Heckman Selection Model
+
+**Heeju Lim**, Carlos A. R. Diniz, Ofer Harel, Victor H. Lachos
+
+*Preprint* · May 2026
+
+<a href="https://arxiv.org/abs/2605.01713" class="btn-pub">Preprint</a> <a href="https://github.com/heeju-lim/mvHeckman" class="btn-pub">R</a>
+:::
+
+
 ::: pub-card
 ## Review of Statistical Methods for Survival Analysis Using Genomic Data
 
@@ -111,7 +165,7 @@ Seungyeoun Lee, **Heeju Lim**
 
 <a href="https://genominfo.org/journal/view.php?doi=10.5808/GI.2019.17.4.e41" class="btn-pub">Article</a>
 :::
-
+-->
 ------------------------------------------------------------------------
 
 

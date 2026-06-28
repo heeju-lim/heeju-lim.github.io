@@ -67,7 +67,7 @@
     "href": "index.html",
     "title": "Heeju Lim",
     "section": "",
-    "text": "Ph.D. in Statistics\n\n\n  Email \n  LinkedIn \n  GitHub \n  ResearchGate \n  Google Scholar \n\n\nI recently earned my Ph.D. in Statistics from the University of Connecticut under the supervision of Professor Victor Hugo Lachos. My research interests include Bayesian statistics, missing data analysis, sample selection models, multivariate analysis, and statistical computing."
+    "text": "Ph.D. in Statistics\n\n\n  Email \n  LinkedIn \n  GitHub \n  ResearchGate \n  Google Scholar \n\n\nI received my Ph.D. in Statistics from the University of Connecticut in 2026 under the supervision of Professor Victor Hugo Lachos. I earned my M.S. in Statistics from Korea University in 2017 under the supervision of Professor Yousung Park, and my B.S. in Statistics from Sejong University in 2015. I worked as an undergraduate research assistant and later as a full-time research assistant with Professor Seungyeoun Lee at Sejong University.\nI also gained practical experience as a data analyst and data scientist at DataSolution(데이타솔루션), the National Tax Service of Korea(국세청), and Korea University(고려대학교 혁신융합대학사업), where I applied statistical and data science methods to real-world problems.\nMy research interests include sample selection models, missing data mechanisms, mixture modeling under heavy-tailed distributions, and multivariate statistical modeling. I have developed R packages including Heckmanstan and mvHeckman for statistical modeling.\nI also completed a Big Data Specialist training program and hold an Oracle Certified Professional (OCP) certification, with experience in database management and large-scale data handling. In addition, I served as a webmaster at the University of Connecticut for three years, where I contributed to web development and conference organization activities."
   },
   {
     "objectID": "research.html",
@@ -467,5 +467,26 @@
     "title": "Heeju Lim",
     "section": "Awards & Honors",
     "text": "Awards & Honors\n\n\n\nYear\nAward\n\n\n\n\n2025\nDissertation Fellowship, University of Connecticut\n\n\n2024\nStudent Travel Award, ASA\n\n\n2023\nGraduate Research Award, University of Connecticut\n\n\n2017\nOutstanding Master’s Thesis Award, Korea University"
+  },
+  {
+    "objectID": "index.html#research-themes",
+    "href": "index.html#research-themes",
+    "title": "Heeju Lim",
+    "section": "",
+    "text": "Heckman selection models\nCensored and Missing\n\n\n\n\n\nHeavy-tailed distributions\nContaminated normal models\nMixture models"
+  },
+  {
+    "objectID": "index.html#publications-1",
+    "href": "index.html#publications-1",
+    "title": "Heeju Lim",
+    "section": "Publications",
+    "text": "Publications\n\n2026\nMultiple Heckman Selection Model (preprint)\nHeeju Lim, Carlos A. R. Diniz, Ofer Harel, Victor H. Lachos Preprint· 2026\nPreprint\n\n\n\n2019\nReview of Statistical Methods for Survival Analysis Using Genomic Data\nSeungyeoun Lee, Heeju Lim Genomics & Informatics· 2019\nArticle"
+  },
+  {
+    "objectID": "index.html#publications-full-list",
+    "href": "index.html#publications-full-list",
+    "title": "Heeju Lim",
+    "section": "Publications (Full List)",
+    "text": "Publications (Full List)\n\n2026\nMultiple Heckman Selection Model (preprint)\nHeeju Lim, Carlos A. R. Diniz, Ofer Harel, Victor H. Lachos *Preprint”· 2026\nPreprint\n\nReview of Statistical Methods for Survival Analysis Using Genomic Data\nSeungyeoun Lee, Heeju Lim Genomics & Informatics· 2019\nArticle"
   }
 ]
