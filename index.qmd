@@ -20,7 +20,7 @@ about:
       href: https://scholar.google.com/citations?user=_ZbsHrwAAAAJ&hl
 ---
 
-::::: hero
+:::::: hero
 <img src="images/heejulim.png" class="profile-image"/>
 
 # Heeju Lim {#about}
@@ -38,14 +38,13 @@ Ph.D. in Statistics
 
 <a href="https://www.researchgate.net/profile/Heeju-Lim"> <i class="fa-brands fa-researchgate"></i> ResearchGate </a>
 
-<a href="https://scholar.google.com/citations?user=_ZbsHrwAAAAJ&hl"> <i class="fa-solid fa-graduation-cap"></i> Google Scholar </a>
+<a href="https://scholar.google.com/citations?user=_ZbsHrwAAAAJ&hl"> <i class="fa-brands fa-googlescholar"></i> Google Scholar </a>
 :::
-::: about-card 
+
+::: about-card
 I recently earned my Ph.D. in Statistics from the University of Connecticut under the supervision of Professor Victor Hugo Lachos. My research interests include Bayesian statistics, missing data analysis, sample selection models, multivariate analysis, and statistical computing.
-
 :::
-:::::
-
+::::::
 
 ------------------------------------------------------------------------
 
@@ -53,7 +52,7 @@ I recently earned my Ph.D. in Statistics from the University of Connecticut unde
 
 ### 🎓 Ph.D. in Statistics
 
-**University of Connecticut** · 2019 – 2026
+**University of Connecticut** · 2019–2021, 2023–2026
 
 [Advisor:]{style="color:#5C6BC0;"} Victor Hugo Lachos
 
@@ -113,32 +112,75 @@ Seungyeoun Lee, **Heeju Lim**
 <a href="https://genominfo.org/journal/view.php?doi=10.5808/GI.2019.17.4.e41" class="btn-pub">Article</a>
 :::
 
-# Presentations {#presentations}
-
-### **Heckman Selection Contaminated Normal Model**
-
--   **Contributed Session** \| ENAR 2025 Spring Meeting. *New Orleans, USA*, March 2025
-
--   **Poster Winner** \| The 7th Stat4Onc Annual Symposium. *Connecticut, USA*, May 2024
-
--   **Student Session** \| The 37th New England Statistics Symposium. *Connecticut, USA*, May 2024
-
-### **Bayesian Analysis of Flexible Heckman Selection Models**
-
--   **Invited Session** \| 2025 ICSA Applied Statistics Symposium. *Connecticut, USA*, June 2025
-
--   **Poster** \| The 38th New England Statistics Symposium. *Connecticut, USA*, May 2025
-
--   **Poster** \| DahShu Data Science Symposium. *Connecticut, USA*, October 2025
-
-### **Study on Predictive Survival Models using Machine Learning**
-
-**Poster** \| The Korean Statistical Society conference. *Chuncheon, South Korea*, May 2019
-
-
 ------------------------------------------------------------------------
 
 
+
+# Presentations {#presentations}
+
+<div class="presentation-card">
+
+<div class="presentation-text">
+### **Heckman Selection Contaminated Normal Model**
+
+- **Contributed Session** \| ENAR 2025 Spring Meeting. *New Orleans, USA*, March 2025
+
+- **Poster Winner** \| The 7th Stat4Onc Annual Symposium. *Connecticut, USA*, May 2024
+
+- **Student Session** \| The 37th New England Statistics Symposium. *Connecticut, USA*, May 2024
+
+</div>
+
+<div class="presentation-gallery">
+
+![](images/enar2025.jpg){width="45%"}
+![](images/Stat4OncPosterWinner.jpg){width="40%"}
+
+</div>
+
+</div>
+
+<div class="presentation-card">
+
+<div class="presentation-text">
+### **Bayesian Analysis of Flexible Heckman Selection Models**
+
+- **Invited Session** \| 2025 ICSA Applied Statistics Symposium. *Connecticut, USA*, June 2025
+
+- **Poster** \| The 38th New England Statistics Symposium. *Connecticut, USA*, May 2025
+
+- **Poster** \| DahShu Data Science Symposium. *Connecticut, USA*, October 2025
+</div>
+
+<div class="presentation-gallery">
+
+![](images/ICSA.jpg){width="45%"}
+![](images/NESS2025Conference.jpg){width="45%"}
+
+
+</div>
+</div>
+
+
+<div class="presentation-card">
+
+<div class="presentation-text">
+
+### **Study on Predictive Survival Models using Machine Learning**
+
+- **Poster** \| The Korean Statistical Society conference. *Chuncheon, South Korea*, May 2019
+
+</div>
+
+<div class="presentation-gallery">
+
+![](images/image8.jpg){width="50%"}
+
+</div>
+</div>
+
+
+------------------------------------------------------------------------
 
 # Teaching Experience {#teaching}
 
@@ -183,10 +225,6 @@ Fall 2024 · Spring 2025 · Fall 2025
 :::
 ::::::
 
-
 ------------------------------------------------------------------------
 
-
-
 # <a href="/images/cv.pdf" class="cv-button">Curriculum Vitae</a> {#cv}
- 
