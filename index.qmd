@@ -133,8 +133,8 @@ Seungyeoun Lee, **Heeju Lim**
 
 <div class="presentation-gallery">
 
-![](images/enar2025.jpg){width="45%"}
-![](images/Stat4OncPosterWinner.jpg){width="40%"}
+![](images/enar2025.jpg)
+![](images/Stat4OncPosterWinner.jpg)
 
 </div>
 
@@ -154,8 +154,8 @@ Seungyeoun Lee, **Heeju Lim**
 
 <div class="presentation-gallery">
 
-![](images/ICSA.jpg){width="45%"}
-![](images/NESS2025Conference.jpg){width="45%"}
+![](images/ICSA.jpg)
+![](images/NESS2025Conference.jpg)
 
 
 </div>
@@ -174,7 +174,7 @@ Seungyeoun Lee, **Heeju Lim**
 
 <div class="presentation-gallery">
 
-![](images/image8.jpg){width="50%"}
+![](images/image8.jpg)
 
 </div>
 </div>
