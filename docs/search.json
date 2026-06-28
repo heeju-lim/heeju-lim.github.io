@@ -67,7 +67,7 @@
     "href": "index.html",
     "title": "Heeju Lim",
     "section": "",
-    "text": "Ph.D Student in Statistics, UConn\n Advisor : Victor Hugo Lachos\n M.S. in Statistics, Korea Univ. 2017\n B.S. in Statistics, Sejong Univ. 2015"
+    "text": "Ph.D. in Statistics\n\n\n  Email \n  LinkedIn \n  GitHub \n  ResearchGate \n  Google Scholar \n\n\nI recently earned my Ph.D. in Statistics from the University of Connecticut under the supervision of Professor Victor Hugo Lachos. My research interests include Bayesian statistics, missing data analysis, sample selection models, multivariate analysis, and statistical computing."
   },
   {
     "objectID": "research.html",
@@ -186,14 +186,14 @@
     "href": "index.html#education",
     "title": "Heeju Lim",
     "section": "Education",
-    "text": "Education\n M.S. in Statistics, 2017\n\n  Korea University\n\n B.S. in Statistics, 2015\n\n  Sejong University"
+    "text": "Education\n\n🎓 Ph.D. in Statistics\nUniversity of Connecticut · 2019 – 2026\nAdvisor: Victor Hugo Lachos\n\n\n\n🎓 M.S. in Statistics\nKorea University · 2015 – 2017\nAdvisor: Yoosung Park\n\n\n\n🎓 B.S. in Statistics\nSejong University · 2010 – 2015\nAdvisor: Seungyeoun Lee"
   },
   {
     "objectID": "index.html#interests",
     "href": "index.html#interests",
     "title": "Heeju Lim",
-    "section": "Interests",
-    "text": "Interests\n Mixture Models  Financial Statistics\n Time Series Analysis  Bio Statistics"
+    "section": "",
+    "text": "Mixture Models  Financial Statistics\n Time Series Analysis  Bio Statistics"
   },
   {
     "objectID": "index.html#contact-information-fa-envelope-size2x",
@@ -397,5 +397,75 @@
     "title": "About",
     "section": "Honors",
     "text": "Honors\n\n\n\n\n\n\nConference Participation Award, The Graduate School| UConn. July 2024\nCLAS Summer Fellowship, Department of Statistics| UConn. May 2024\nScholarships for Internationalization, Korea Univ. Spring 2016\nAcademic Research Scholarships, Korea Univ. Spring 2016, Fall 2015\nBK21PLUS Scholarships, Korea Univ. Spring 2016, Fall 2015\nMagna Cum Laude, Sejong Univ. Spring 2015\nHonors Scholarships, Sejong Univ. 2014, 2013, 2012, 2011"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Heeju Lim",
+    "section": "Contact :    ",
+    "text": "Contact :"
+  },
+  {
+    "objectID": "index.html#eduation",
+    "href": "index.html#eduation",
+    "title": "Heeju Lim",
+    "section": "Eduation",
+    "text": "Eduation\n Ph.D in Statistics, UConn 2026\n Advisor : Victor Hugo Lachos\n M.S. in Statistics, Korea Univ. 2017\n Advisor : Yoosung Park\n B.S. in Statistics, Sejong Univ. 2015\n Advisor : Seungyeoun Lee"
+  },
+  {
+    "objectID": "index.html#bayesian-analysis-of-heavy-tailed-heckman-selection-models-using-hamiltonian-monte-carlo",
+    "href": "index.html#bayesian-analysis-of-heavy-tailed-heckman-selection-models-using-hamiltonian-monte-carlo",
+    "title": "Heeju Lim",
+    "section": "Bayesian analysis of heavy-tailed Heckman selection models using Hamiltonian Monte Carlo",
+    "text": "Bayesian analysis of heavy-tailed Heckman selection models using Hamiltonian Monte Carlo\nHeeju Lim, Victor E. Lachos, Victor H. Lachos\nComputational Statistics · February 2026\nArticle Preprint R"
+  },
+  {
+    "objectID": "index.html#heckman-selection-contaminated-normal-model",
+    "href": "index.html#heckman-selection-contaminated-normal-model",
+    "title": "Heeju Lim",
+    "section": "Heckman Selection-Contaminated Normal Model",
+    "text": "Heckman Selection-Contaminated Normal Model\nHeeju Lim, Jose Ordonez, Antonio Punzo, Victor H. Lachos\nJournal of Computational and Graphical Statistics · February 2026\nArticle Preprint R"
+  },
+  {
+    "objectID": "index.html#multiple-heckman-selection-model",
+    "href": "index.html#multiple-heckman-selection-model",
+    "title": "Heeju Lim",
+    "section": "Multiple Heckman Selection Model",
+    "text": "Multiple Heckman Selection Model\nHeeju Lim, Carlos A. R. Diniz, Ofer Harel, Victor H. Lachos\nPreprint · May 2026\nPreprint R"
+  },
+  {
+    "objectID": "index.html#review-of-statistical-methods-for-survival-analysis-using-genomic-data",
+    "href": "index.html#review-of-statistical-methods-for-survival-analysis-using-genomic-data",
+    "title": "Heeju Lim",
+    "section": "Review of Statistical Methods for Survival Analysis Using Genomic Data",
+    "text": "Review of Statistical Methods for Survival Analysis Using Genomic Data\nSeungyeoun Lee, Heeju Lim\nGenomics & Informatics · 2019\nArticle"
+  },
+  {
+    "objectID": "index.html#teaching-experience",
+    "href": "index.html#teaching-experience",
+    "title": "Heeju Lim",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\n\n\nDiscussion Instructor\n\n\nUniversity of Connecticut\n\nElementary Concepts of Statistics (STAT 1000Q)\nFall 2024 · Spring 2025 · Fall 2025\n\n 📄 Syllabus \n 📝 Discussion Notes \n\n\n\n\nUniversity of Connecticut\nTeaching Assistant / Grader\n\nApplied Spatio-Temporal Statistics (Fall 2025)\nLinear Models I (Fall 2024)\nIntroduction to Mathematical Statistics II (Spring 2021)\nIntroduction to Mathematical Statistics I (Fall 2020)\n\n\n\nSejong University\nTeaching Assistant\n\nBayesian Statistics (Fall 2018)\nMathematical Statistics II (Fall 2014)\n\n\n\nKorea University\nTeaching Assistant\n\nIntroduction to Database (SQL) (Fall 2015)\nIntroduction to C Programming (Spring 2015)"
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Heeju Lim",
+    "section": "👩‍🏫 Teaching",
+    "text": "👩‍🏫 Teaching\n\nDiscussion Instructor\nElementary Concepts of Statistics\nUniversity of Connecticut\nFall 2024 · Spring 2025 · Fall 2025\n\n\nTeaching Assistant / Grader\n\n\n\nCourse\nTerm\n\n\n\n\nApplied Spatio-Temporal Statistics\nFall 2025\n\n\nLinear Models I\nFall 2024\n\n\nIntroduction to Mathematical Statistics II\nSpring 2021\n\n\nIntroduction to Mathematical Statistics I\nFall 2020\n\n\nBayesian Statistics\nFall 2018\n\n\nIntroduction to Database (SQL)\nFall 2015\n\n\nIntroduction to C Programming\nSpring 2015\n\n\nMathematical Statistics II\nFall 2014"
+  },
+  {
+    "objectID": "index.html#presentations",
+    "href": "index.html#presentations",
+    "title": "Heeju Lim",
+    "section": "Presentations",
+    "text": "Presentations\n\n2025\nMatrix-variate Heckman Selection Models Joint Statistical Meetings (JSM), Nashville, TN\nBayesian Analysis of Matrix-Valued Data Connecticut Statistics Symposium\n\n\n2024\nMissing Data Analysis under Complex Dependence Structures ENAR Spring Meeting\n\n\n2023\nStatistical Computing for Selection Models Korea Statistical Society Fall Meeting"
+  },
+  {
+    "objectID": "index.html#awards-honors",
+    "href": "index.html#awards-honors",
+    "title": "Heeju Lim",
+    "section": "Awards & Honors",
+    "text": "Awards & Honors\n\n\n\nYear\nAward\n\n\n\n\n2025\nDissertation Fellowship, University of Connecticut\n\n\n2024\nStudent Travel Award, ASA\n\n\n2023\nGraduate Research Award, University of Connecticut\n\n\n2017\nOutstanding Master’s Thesis Award, Korea University"
   }
 ]

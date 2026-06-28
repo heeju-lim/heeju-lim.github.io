@@ -5,19 +5,28 @@ website:
   title: "Heeju Lim"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - project.qmd
-      - research.qmd
+      - text: About
+        href: "#about"
 
+      - text: Publications
+        href: "#publications"
+
+      - text: Presentations
+        href: "#presentations"
+      
+      - text: Teaching
+        href: "#teaching"
+        
+      - text: CV
+        href: "#cv"
+ 
 format:
   html:
     theme: zephyr
     css: styles.css
     toc: true
     page-layout: full
-    fontsize: 1.1em
+    fontsize: 1em
 
 
 editor: visual
