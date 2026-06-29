@@ -45,7 +45,7 @@ Ph.D. in Statistics
 
 I received my Ph.D. in Statistics from the University of Connecticut in 2026 under the supervision of Professor Victor Hugo Lachos. I earned my M.S. in Statistics from Korea University in 2017 under the supervision of Professor Yousung Park, and my B.S. in Statistics from Sejong University in 2015. I worked as an undergraduate research assistant and later as a full-time research assistant with Professor Seungyeoun Lee at Sejong University.
 
-I also gained practical experience as a data analyst and data scientist at DataSolution(데이타솔루션), the National Tax Service of Korea(국세청), and Korea University(고려대학교 혁신융합대학사업), where I applied statistical and data science methods to real-world problems.
+I also gained practical experience as a data analyst and data scientist at DataSolution(데이타솔루션), the National Tax Service of Korea(국세청 국세통계센터), and Korea University COSS(고려대학교 혁신융합대학사업), where I applied statistical and data science methods to real-world problems.
 
 My research interests include sample selection models, missing data mechanisms, mixture modeling under heavy-tailed distributions, and multivariate statistical modeling. I have developed R packages including *Heckmanstan* and *mvHeckman* for statistical modeling. 
 
@@ -65,7 +65,7 @@ I also completed a Big Data Specialist training program and hold an Oracle Certi
 
 ::: {.g-col-6}
 #### Mixture Modeling
-#### Multivarite modeling
+#### Causal inference
 
 :::
 
