@@ -175,6 +175,25 @@ Seungyeoun Lee, **Heeju Lim**
 <div class="presentation-card">
 
 <div class="presentation-text">
+### **Methodological Advances in Heckman Selection Models**
+
+- **Invited Talk** \| HOSEO University. *Asan, South Korea*, July 2026
+
+
+</div>
+
+<div class="presentation-gallery">
+
+![](images/invi1.jpg)
+![](images/invi2.jpg)
+
+</div>
+
+</div>
+
+<div class="presentation-card">
+
+<div class="presentation-text">
 ### **Heckman Selection Contaminated Normal Model**
 
 - **Contributed Session** \| ENAR 2025 Spring Meeting. *New Orleans, USA*, March 2025
